@@ -17,7 +17,7 @@ module Faker
       sec = fetch_by_country(@country.iso_3166_1_alpha2, "secondary_address")
       @secondary_address = self.class.numerify(sec)
 
-      @city = fetch_by_country(@country.iso_3166_1_alpha2, "city").keys.sample
+      @city = fetch_by_country(@country.iso_3166_1_alpha2, "city").keys.sample.to_s
       @province = fetch_by_country(@country.iso_3166_1_alpha2, "city")[@city]
       if @province.kind_of?(Array) then
         @constituent_country = @province.last
