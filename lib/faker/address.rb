@@ -1,56 +1,51 @@
 module Faker
   class Address < Base
-    flexible :address
+    DEFAULT_COUNTRY = 'US'
+    attr_reader :street_address, :street_name, :secondary_address, :city, :province, :zip_code, :constituent_country, :country
 
-    class << self
-      def city
-        parse('address.city')
+    def initialize(country=nil)
+      country = Faker::Country.country_for_code(country) if country.kind_of?(String)
+      @country = country || Faker::Country.country
+
+      number = fetch_by_country(@country.iso_3166_1_alpha2, "street_address")
+      name = fetch_by_country(@country.iso_3166_1_alpha2, "street_name")
+      suffix = fetch_by_country(@country.iso_3166_1_alpha2, "street_suffix")
+
+      @street_address = self.class.numerify(number)
+      @street_name = name + ' ' + suffix
+
+      sec = fetch_by_country(@country.iso_3166_1_alpha2, "secondary_address")
+      @secondary_address = self.class.numerify(sec)
+
+      @city = fetch_by_country(@country.iso_3166_1_alpha2, "city").keys.sample
+      @province = fetch_by_country(@country.iso_3166_1_alpha2, "city")[@city]
+      if @province.kind_of?(Array) then
+        @constituent_country = @province.last
+        @province = @province.first
       end
+      @province = nil if @province == @city
 
-      def street_name
-        parse('address.street_name')
-      end
-
-      def street_address(include_secondary = false)
-        numerify(parse('address.street_address') + (include_secondary ? ' ' + secondary_address : ''))
-      end
-
-      def secondary_address
-        numerify(fetch('address.secondary_address'))
-      end
-
-      def building_number
-        bothify(fetch('address.building_number'))
-      end
-
-      def zip_code
-        bothify(fetch('address.postcode'))
-      end
-
-      def time_zone
-        bothify(fetch('address.time_zone'))
-      end
-
-      alias_method :zip, :zip_code
-      alias_method :postcode, :zip_code
-
-      def street_suffix; fetch('address.street_suffix'); end
-      def city_suffix;   fetch('address.city_suffix');   end
-      def city_prefix;   fetch('address.city_prefix');   end
-      def state_abbr;    fetch('address.state_abbr');    end
-      def state;         fetch('address.state');         end
-
-      def country
-        Faker::Country.country.short_name
-      end
-
-      def latitude
-        ((rand * 180) - 90).to_s
-      end
-
-      def longitude
-        ((rand * 360) - 180).to_s
-      end
+      zip = fetch_by_country(@country.iso_3166_1_alpha2, "postal_code")
+      @zip_code = self.class.bothify(zip).upcase
     end
+
+    def inspect
+      "#<#{self.class.to_s} #{street_address} #{street_name}; #{secondary_address}; #{city} #{province} #{zip_code}; #{constituent_country} #{country.short_name}"
+    end
+
+    def latitude
+      ((rand * 180) - 90).to_s
+    end
+
+    def longitude
+      ((rand * 360) - 180).to_s
+    end
+
+    private
+      def fetch_by_country(code, prop)
+        Faker::Base.fetch("country_by_code.#{code}.#{prop}")
+      rescue I18n::MissingTranslationData => e
+        Faker::Base.fetch("country_by_code.#{DEFAULT_COUNTRY}.#{prop}")
+      end
   end
 end
