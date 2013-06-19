@@ -43,1158 +43,5639 @@ en:
     iso_3166_1_alpha2: [AD, AE, AF, AG, AI, AL, AM, AO, AQ, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BL, BM, BN, BO, BQ, BR, BS, BT, BV, BW, BY, BZ, CA, CC, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CU, CV, CW, CX, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, EH, ER, ES, ET, FI, FJ, FK, FM, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GS, GT, GU, GW, GY, HK, HM, HN, HR, HT, HU, ID, IE, IL, IM, IN, IO, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MF, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PS, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SE, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, SS, ST, SV, SX, SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, UM, US, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, YT, ZA, ZM, ZW]
 
     country_by_code:
-      AF:
-        short_name: Afghanistan
-        iso_3166_1_alpha2: AF
-        official_name: Islamic Republic of Afghanistan
-        demonym: Afghan
-        tld: .af
-      AL:
-        short_name: Albania
-        iso_3166_1_alpha2: AL
-        official_name: Republic of Albania
-        demonym: Albanian
-        tld: .al
-      DZ:
-        short_name: Algeria
-        iso_3166_1_alpha2: DZ
-        official_name: People’s Democratic Republic of Algeria
-        demonym: Algerian
-        tld: .dz
-      AD:
+      :AD:
+        postal_code: AD###
+        tld: .ad
+        street_name:
+        - Les Bons
+        - Andorre-la-Vieille
+        - Segudet
+        - Bixisarri
+        - Sertes
+        - Mas d'Alins
+        - Las Escadas
+        - Mosquera
+        - Vila
+        - La Costa
+        city:
+          Andorra la Vella: Andorra la Vella
+          Les Escaldes: Escaldes-Engordany
+          Encamp: Encamp
+          Sant Julià de Lòria: Sant Julia de Loria
+          La Massana: La Massana
+          Canillo: Canillo
+          Ordino: Ordino
+          Arinsal: La Massana
+          Lors: La Massana
+          Ransol: Canillo
         short_name: Andorra
         iso_3166_1_alpha2: AD
         official_name: Principality of Andorra
         demonym: Andorran
-        tld: .ad
-      AO:
-        short_name: Angola
-        iso_3166_1_alpha2: AO
-        official_name: Republic of Angola
-        demonym: Angolan
-        tld: .ao
-      AG:
+      :AE:
+        tld: .ae
+        street_name:
+        - Madha
+        - Dafir
+        - Al Hairah
+        - Howeilat
+        - Naslah
+        - Qalba
+        - Western Mariyyah
+        - Mukhtaraqah
+        - Al Hayrah
+        - Al Manamah
+        city:
+          Dubai: Dubai
+          Abu Dhabi: Abu Dhabi
+          Sharjah: Sharjah
+          Ghubbat Khawrah: Ras Al Khaimah
+          Ar Rufaysah: Sharjah
+          Bid' Zayed: Abu Dhabi
+          Kub: Ras Al Khaimah
+          Bulaydah: Fujairah
+          Mundafinah: Abu Dhabi
+          Bithnah: Fujairah
+        short_name: United Arab Emirates
+        iso_3166_1_alpha2: AE
+        official_name: United Arab Emirates
+        demonym: Emirati
+      :AF:
+        postal_code: 
+        tld: .af
+        street_name:
+        - Ghowrchi Kalay
+        - Alef Shah Kala
+        - Bazarak
+        - Awparan
+        - Piruzi
+        - Darun Zaw
+        - Senjetak
+        - Hejan
+        - Qarya-i- Sa`id
+        city:
+          Kabul: Kabol
+          Qandahar: Kandahar
+          Herat: Herat
+          Jalalabad: Nangarhar
+          Qunduz: Kondoz
+          Baglan: Baghlan
+          Gardez: Paktia
+          Khowst: Khowst
+          Kholm: Samangan
+          Taloqan: Takhar
+        short_name: Afghanistan
+        iso_3166_1_alpha2: AF
+        official_name: Islamic Republic of Afghanistan
+        demonym: Afghan
+      :AG:
+        tld: .ag
+        street_name:
+        - Bethesda
+        - Johnson Point Village
+        - Gaynors
+        - Willoughby
+        - Aberdeen Village
+        - Old Road Village
+        - Pattersons
+        - Saint Lukes Village
+        - Simpson
+        - Cassada Gardens
+        city:
+          All Saints: Saint Paul
+          Liberta: Saint Paul
+          Parham: Saint Peter
+          Carlisle: Saint George
+          Swetes: Saint Paul
+          Codrington: Barbuda
+          Old Road: Saint Mary
+          Freetown: Saint Philip
+          Lyon: Saint Paul
+          Herberts: Saint John
         short_name: Antigua and Barbuda
         iso_3166_1_alpha2: AG
         official_name: Antigua and Barbuda
-        demonym: [Antiguan, Barbudan]
-        tld: .ag
-      AR:
-        short_name: Argentina
-        iso_3166_1_alpha2: AR
-        official_name: Argentine Republic
-        demonym: Argentine
-        tld: .ar
-      AM:
+        demonym:
+        - Antiguan
+        - Barbudan
+      :AL:
+        postal_code: ! '####'
+        tld: .al
+        vat_number:
+        - (AL)J########?
+        - (AL)K########?
+        street_name:
+        - Sopesa
+        - Bac
+        - Hothova
+        - Shënavlashi
+        - Kodër-Bujars
+        - Çorogunji
+        - Shengjergi
+        - Cakrrani
+        - Metaljaj
+        - Ur' e Shtrejtë
+        city:
+          Tirana: Tirane
+          Durrës: Durres
+          Elbasan: Elbasan
+          Vlorë: Vlore
+          Shkodër: Shkoder
+          Fier: Fier
+          Korçë: Korce
+          Berat: Berat
+          Lushnjë: Fier
+          Kavajë: Tirane
+        short_name: Albania
+        iso_3166_1_alpha2: AL
+        official_name: Republic of Albania
+        demonym: Albanian
+      :AM:
+        postal_code: ! '####'
+        tld: .am
+        street_name:
+        - Paghakn
+        - Karakhs
+        - Aj'ap'nyak
+        - Verin Zeyva
+        - Saraart
+        - Gekhanist
+        - Shahumian
+        - Dokhs
+        - Kulidzhan
+        - Haght'anak
+        city:
+          Yerevan: Yerevan
+          Gyumri: Shirak
+          Vanadzor: Lorri
+          Vagharshapat: Armavir
+          Hrazdan: Kotayk'
+          Abovyan: Kotayk'
+          Kapan: Syunik'
+          Gavar: Geghark'unik'
+          Artashat: Ararat
+          Goris: Syunik'
         short_name: Armenia
         iso_3166_1_alpha2: AM
         official_name: Republic of Armenia
         demonym: Armenian
-        tld: .am
-      AU:
-        short_name: Australia
-        iso_3166_1_alpha2: AU
-        official_name: Commonwealth of Australia
-        demonym: Australian
-        tld: .au
-      AT:
+      :AO:
+        postal_code: 
+        tld: .ao
+        street_name:
+        - Nóqui
+        - Samuaco
+        - São José
+        - Restauração
+        - Macuia
+        - Muene Luanda
+        - Chinongue
+        - Praia de Sul Tiago
+        - Quissanda de Baixo
+        - Cafuâni
+        city:
+          Luanda: 
+          Huambo: Huambo
+          Lobito: Benguela
+          Benguela: Benguela
+          Kuito: Bie
+          Lubango: Huila
+          Malanje: Malanje
+          Namibe: Namibe
+          Soyo: Zaire
+          Cabinda: Cabinda
+        short_name: Angola
+        iso_3166_1_alpha2: AO
+        official_name: Republic of Angola
+        demonym: Angolan
+      :AR:
+        postal_code: ?####???
+        tld: .ar
+        vat_number: AR###########
+        street_name:
+        - Cabituyo
+        - Reñico
+        - Santa Anita
+        - El Turbio
+        - Las Malvinas
+        - Mayor José Orellanos
+        - Esquina
+        - Comandante Luis Piedra Buena
+        - Concepción
+        - Moores
+        city:
+          Córdoba: Cordoba
+          Rosario: Santa Fe
+          Mendoza: Mendoza
+          Tucumán: Tucuman
+          La Plata: Buenos Aires
+          Mar del Plata: Buenos Aires
+          Salta: Salta
+          San Juan: San Juan
+          Santa Fe: Santa Fe
+          Santiago del Estero: Santiago del Estero
+        short_name: Argentina
+        iso_3166_1_alpha2: AR
+        official_name: Argentine Republic
+        demonym: Argentine
+      :AS:
+        postal_code: 
+      :AT:
+        postal_code: ! '####'
+        tld: .at
+        vat_number: ATU########
+        street_name:
+        - Milbersdorf
+        - Hummenberg
+        - Pischk
+        - Glatzenberg
+        - Kasöd
+        - Baierdorf
+        - Maisdorf
+        - Grafenegg
+        - Aschenberg
+        - Schlickendorf
+        city:
+          Vienna: Wien
+          Graz: Steiermark
+          Linz: Oberosterreich
+          Salzburg: Salzburg
+          Innsbruck: Tirol
+          Klagenfurt: Karnten
+          Villach: Karnten
+          Wels: Oberosterreich
+          Sankt Pölten: Niederosterreich
+          Dornbirn: Vorarlberg
         short_name: Austria
         iso_3166_1_alpha2: AT
         official_name: Republic of Austria
         demonym: Austrian
-        tld: .at
-      AZ:
+      :AU:
+        postal_code: ! '####'
+        tld: .au
+        vat_number: AU###########
+        street_name:
+        - O'Bil Bil
+        - Meringa
+        - Tooleybuc
+        - Port Price
+        - Woodside
+        - Bullarook
+        - Inkster
+        - Darby
+        - Charleston
+        - Tucklan
+        city:
+          Sydney: New South Wales
+          Melbourne: Victoria
+          Brisbane: Queensland
+          Perth: Western Australia
+          Adelaide: South Australia
+          Gold Coast: Queensland
+          Newcastle: New South Wales
+          Canberra: Australian Capital Territory
+          Wollongong: New South Wales
+          Hobart: Tasmania
+        short_name: Australia
+        iso_3166_1_alpha2: AU
+        official_name: Commonwealth of Australia
+        demonym: Australian
+      :AZ:
+        postal_code: AZ####
+        tld: .az
+        street_name:
+        - Burzunbyul'
+        - QaracÄ±
+        - Gyurgyan
+        - Tatar
+        - Mean'ku
+        - Ledzhet
+        - Sosuzlukh
+        - Pakhlyu
+        - Ghazidere
+        city:
+          Baku: Baki
+          Qaraçuxur: Baki
+          Yevlax: Yevlax
+          Mastaga: Baki
+          Agdam: Agdam
+          Xaçmaz: Xacmaz
+          Salyan: Salyan
+          Hövsan: Baki
+          Göyçay: Goycay
+          Kirovskiy: Baki
         short_name: Azerbaijan
         iso_3166_1_alpha2: AZ
         official_name: Republic of Azerbaijan
         demonym: Azerbaijani
-        tld: .az
-      BS:
-        short_name: Bahamas
-        iso_3166_1_alpha2: BS
-        official_name: Commonwealth of The Bahamas
-        demonym: Bahamian
-        tld: .bs
-      BH:
-        short_name: Bahrain
-        iso_3166_1_alpha2: BH
-        official_name: Kingdom of Bahrain
-        demonym: Bahraini
-        tld: .bh
-      BD:
-        short_name: Bangladesh
-        iso_3166_1_alpha2: BD
-        official_name: People’s Republic of Bangladesh
-        demonym: Bangladeshi
-        tld: .bd
-      BB:
-        short_name: Barbados
-        iso_3166_1_alpha2: BB
-        official_name: Barbados
-        demonym: Barbadian
-        tld: .bb
-      BY:
-        short_name: Belarus
-        iso_3166_1_alpha2: BY
-        demonym: Belarusian
-        tld: .by
-      BE:
-        short_name: Belgium
-        iso_3166_1_alpha2: BE
-        official_name: Kingdom of Belgium
-        demonym: Belgian
-        tld: .be
-      BZ:
-        short_name: Belize
-        iso_3166_1_alpha2: BZ
-        official_name: Belize
-        demonym: Belizean
-        tld: .bz
-      BJ:
-        short_name: Benin
-        iso_3166_1_alpha2: BJ
-        official_name: Republic of Benin
-        demonym: [Beninese, Beninoi]
-        tld: .bj
-      BT:
-        short_name: Bhutan
-        iso_3166_1_alpha2: BT
-        official_name: Kingdom of Bhutan
-        demonym: Bhutanese
-        tld: .bt
-      BO:
-        short_name: Bolivia
-        iso_3166_1_alpha2: BO
-        official_name: Plurinational State of Bolivia
-        demonym: Bolivian
-        tld: .bo
-      BA:
+      :BA:
+        postal_code: ! '#####'
+        tld: .ba
+        street_name:
+        - Mamutovac
+        - Pribojna
+        - Gornje Polje
+        - Kifino Selo
+        - Avgustinovici
+        - Plana Dola
+        - Mecave
+        - Gornji Ponir
+        - Pavlovac
+        - Borovsko
+        city:
+          Sarajevo: Federation of Bosnia and Herzegovina
+          Banja Luka: Republika Srpska
+          Zenica: Federation of Bosnia and Herzegovina
+          Tuzla: Federation of Bosnia and Herzegovina
+          Mostar: Federation of Bosnia and Herzegovina
+          Bihac: Federation of Bosnia and Herzegovina
+          Bugojno: Federation of Bosnia and Herzegovina
+          Brcko: 
+          Bijeljina: Republika Srpska
+          Prijedor: Republika Srpska
         short_name: Bosnia and Herzegovina
         iso_3166_1_alpha2: BA
         official_name: Bosnia and Herzegovina
         demonym: Bosnian
-        tld: .ba
-      BW:
-        short_name: Botswana
-        iso_3166_1_alpha2: BW
-        official_name: Republic of Botswana
-        demonym: Batswana
-        tld: .bw
-      BR:
-        short_name: Brazil
-        iso_3166_1_alpha2: BR
-        official_name: Federative Republic of Brazil
-        demonym: Brazilian
-        tld: .br
-      BN:
-        short_name: Brunei
-        iso_3166_1_alpha2: BN
-        official_name: State of Brunei Darussalam
-        demonym: Bruneian
-        tld: .bn
-      BG:
+      :BB:
+        postal_code: BB#####
+        tld: .bb
+        street_name:
+        - Porters
+        - Hoytes
+        - Highland
+        - Hope
+        - Marchfield
+        - Supers
+        - Blades
+        - Sutherland Road
+        - Kendal Hill
+        - Haggatt Hall
+        city:
+          Bridgetown: Saint Michael
+          Speightstown: Saint Peter
+          Oistins: Christ Church
+          Bathsheba: Saint Joseph
+          Holetown: Saint James
+          Crab Hill: Saint Lucy
+          Greenland: Saint Andrew
+          Blackmans: Saint Joseph
+          Hillaby: Saint Andrew
+          Durants: Christ Church
+        short_name: Barbados
+        iso_3166_1_alpha2: BB
+        official_name: Barbados
+        demonym: Barbadian
+      :BD:
+        postal_code: ! '####'
+        tld: .bd
+        street_name:
+        - Beharpur
+        - Nandanura
+        - Char Pata
+        - Bara Jafarpur
+        - Kalmir
+        - Dima
+        - Krishnachandrapur
+        - Adytapur
+        - Golbunia
+        - Aila
+        city:
+          Dhaka: Dhaka
+          Khulna: Khulna
+          Rajshahi: Dhaka
+          Tungi: Dhaka
+          Rangpur: Rajshahi
+          Narsingdi: Dhaka
+          Barisal: Chittagong
+          Narayanganj: Dhaka
+          Dinajpur: Rajshahi
+          Jamalpur: Dhaka
+        short_name: Bangladesh
+        iso_3166_1_alpha2: BD
+        official_name: People’s Republic of Bangladesh
+        demonym: Bangladeshi
+      :BE:
+        postal_code: ! '####'
+        tld: .be
+        vat_number: BE0#########
+        street_name:
+        - Oudekapelle
+        - Chestion
+        - Stockem
+        - Winxele
+        - Stroobrug
+        - Flohimont
+        - Roumont
+        - Vrijheid
+        - Reutelhoek
+        - Havinnes
+        city:
+          Brussels: Brussels Hoofdstedelijk Gewest
+          Antwerp: Antwerpen
+          Gent: Oost-Vlaanderen
+          Charleroi: Hainaut
+          Liège: Liege
+          Brugge: West-Vlaanderen
+          Namur: Namur
+          Leuven: Vlaams-Brabant
+          Mons: Hainaut
+          Aalst: Oost-Vlaanderen
+        short_name: Belgium
+        iso_3166_1_alpha2: BE
+        official_name: Kingdom of Belgium
+        demonym: Belgian
+      :BF:
+        tld: .bf
+        street_name:
+        - Tanguen-Dassouri
+        - Danpan
+        - Nakomtenga
+        - Diakora
+        - Bissa
+        - Bougoula
+        - Zoétgomdé
+        - Kourouboulli
+        - Tamsen
+        - Séhiré
+        city:
+          Ouagadougou: Kadiogo
+          Bobo Dioulasso: Houet
+          Koudougou: Boulkiemde
+          Banfora: Komoe
+          Ouahigouya: Yatenga
+          Dédougou: Mouhoun
+          Kaya: Sanmatenga
+          Tenkodogo: Boulgou
+          Ouargaye: Koulpelogo
+          Garango: 
+        short_name: Burkina Faso
+        iso_3166_1_alpha2: BF
+        demonym: Burkinabé
+      :BG:
+        postal_code: ! '####'
+        tld: .bg
+        vat_number:
+        - BG#########
+        - BG##########
+        street_name:
+        - Dutlu
+        - Boikowzi
+        - Karasch
+        - Topola
+        - Arkhenlsh
+        - Dara-Dere
+        - Perin
+        - Sawino
+        - Egulnitsa
+        - Miletich
+        city:
+          Sofia: Grad Sofiya
+          Plovdiv: Plovdiv
+          Varna: Varna
+          Burgas: Burgas
+          Ruse: Ruse
+          Stara Zagora: Stara Zagora
+          Pleven: Pleven
+          Sliven: Sliven
+          Dobric: Dobrich
+          Sumen: Shumen
         short_name: Bulgaria
         iso_3166_1_alpha2: BG
         official_name: Republic of Bulgaria
         demonym: Bulgarian
-        tld: .bg
-      BF:
-        short_name: Burkina Faso
-        iso_3166_1_alpha2: BF
-        demonym: Burkinabé
-        tld: .bf
-      MM:
-        short_name: Burma
-        iso_3166_1_alpha2: MM
-        official_name: Union of Myanmar
-        demonym: [Burmese, Myanma]
-        tld: .mm
-      BI:
+      :BH:
+        tld: .bh
+        street_name:
+        - Al `Amar
+        - Menama
+        - Halat-at-Khulaifat
+        - Buri
+        - Wadiyah
+        - Kirabad
+        - Ar Rifa`
+        - Jabala
+        - Jabalat Habshi
+        - An Nuwaydirat
+        city:
+          Manama: Al Manamah
+          Sitrah: Sitrah
+          Jidd Hafs: Jidd Hafs
+          Dair: 
+          Sar: Al Mintaqah ash Shamaliyah
+          Nuwaidrat: Sitrah
+          Al `Adliyah: Al Manamah
+          Shahrakkan: Al Mintaqah al Gharbiyah
+          Moharek: 
+          Markuban: Sitrah
+        short_name: Bahrain
+        iso_3166_1_alpha2: BH
+        official_name: Kingdom of Bahrain
+        demonym: Bahraini
+      :BI:
+        tld: .bi
+        street_name:
+        - Gaseme
+        - Gihongoro
+        - Kasaka
+        - Munterana
+        - Mukingiro
+        - Kanyinya
+        - Mungaji
+        - Ruminamina
+        - Shori
+        - Musivya
+        city:
+          Bujumbura: Bujumbura
+          Muyinga: Muyinga
+          Ruyigi: Ruyigi
+          Gitega: Gitega
+          Ngozi: Ngozi
+          Rutana: Rutana
+          Bururi: Bururi
+          Makamba: Makamba
+          Kayanza: Kayanza
+          Muramvya: 
         short_name: Burundi
         iso_3166_1_alpha2: BI
         official_name: Republic of Burundi
         demonym: Burundian
-        tld: .bi
-      KH:
-        short_name: Cambodia
-        iso_3166_1_alpha2: KH
-        official_name: Kingdom of Cambodia
-        demonym: Khmer
-        tld: .kh
-      CM:
-        short_name: Cameroon
-        iso_3166_1_alpha2: CM
-        official_name: Republic of Cameroon
-        demonym: Cameroonian
-        tld: .cm
-      CA:
+      :BJ:
+        postal_code: 
+        tld: .bj
+        street_name:
+        - Guienta
+        - Sirarou
+        - Alouhouéhoué
+        - Sarro
+        - Yadia
+        - Soborogou
+        - Bérognamno
+        - Adjéhongon
+        - Niassy
+        - Sinassinrou
+        city:
+          Cotonou: Littoral
+          Abomey-Calavi: 
+          Djougou: Donga
+          Parakou: Borgou
+          Bohicon: Zou
+          Kandi: Alibori
+          Lokossa: Mono
+          Ouidah: Atlanyique
+          Abomey: Zou
+          Natitingou: Atakora
+        short_name: Benin
+        iso_3166_1_alpha2: BJ
+        official_name: Republic of Benin
+        demonym:
+        - Beninese
+        - Beninoi
+      :BN:
+        postal_code: ??####
+        tld: .bn
+        street_name:
+        - Kampong Nangka
+        - Tempuan Ugar
+        - Kampong Pangkalan Piasau
+        - Pangkalan Siong
+        - Kampong Kobong
+        - Lombak Pulau
+        - Kampong Semabat
+        - Kampong Palait
+        - Kampong Sibut
+        - Kampong Binchaya
+        city:
+          Kampong Lamunin: 
+          Kampong Baru Baru: 
+          Kampong Limpas: 
+          Rambai: 
+          Kampong Pantau Marai: 
+          Kampong Mulaut: 
+          Sangkurong: 
+          Kampong Junjongan: 
+          Kuala Balai: 
+          Kampong Kuala Abang: 
+        short_name: Brunei
+        iso_3166_1_alpha2: BN
+        official_name: State of Brunei Darussalam
+        demonym: Bruneian
+      :BO:
+        tld: .bo
+        street_name:
+        - Estancia Hichu Kotto
+        - Corranes
+        - Vilapujio
+        - Hacienda La Cubanita
+        - Micullpaya
+        - Tranca
+        - Portillo
+        - Comunidad Carachuyo
+        - Piedra Grade
+        - Pahua
+        city:
+          Cochabamba: Cochabamba
+          La Paz: La Paz
+          Sucre: Chuquisaca
+          Oruro: Oruro
+          Tarija: Tarija
+          Potosí: Potosi
+          Montero: Santa Cruz
+          Trinidad: El Beni
+          Yacuiba: Tarija
+          Riberalta: El Beni
+        short_name: Bolivia
+        iso_3166_1_alpha2: BO
+        official_name: Plurinational State of Bolivia
+        demonym: Bolivian
+      :BR:
+        postal_code: BR####
+        tld: .br
+        vat_number: BR##.###.###/####-##
+        street_name:
+        - Brejo
+        - Maria Soares
+        - São João da Serra Negra
+        - Bairro de Lavras
+        - Vila Guaí
+        - Santa Úrsula
+        - Pequizeiro
+        - Marmeleiro de Baixo
+        - Cascavel
+        - Campinas
+        city:
+          São Paulo: Sao Paulo
+          Rio de Janeiro: Rio de Janeiro
+          Salvador: Bahia
+          Belo Horizonte: Minas Gerais
+          Brasília: Distrito Federal
+          Curitiba: Parana
+          Manaus: Amazonas
+          Recife: Pernambuco
+          Belém: Para
+          Porto Alegre: Rio Grande do Sul
+        short_name: Brazil
+        iso_3166_1_alpha2: BR
+        official_name: Federative Republic of Brazil
+        demonym: Brazilian
+      :BS:
+        tld: .bs
+        street_name:
+        - Devil's Point Settlement
+        - Great Guana Cay
+        - Tarpum Bay Settlement
+        - Roakers
+        - Holmes Rock
+        - The Village
+        - Love Hill
+        - Bluff
+        - Lowe Sound
+        - Roses Settlement
+        city:
+          Nassau: New Providence
+          Freeport: Freeport
+          Marsh Harbour: Marsh Harbour
+          High Rock: High Rock
+          Andros Town: Fresh Creek
+          Clarence Town: Long Island
+          Dunmore Town: Harbour Island
+          Rock Sound: Rock Sound
+          Alice Town: Bimini
+          Cockburn Town: San Salvador and Rum Cay
+        short_name: Bahamas
+        iso_3166_1_alpha2: BS
+        official_name: Commonwealth of The Bahamas
+        demonym: Bahamian
+      :BT:
+        tld: .bt
+        street_name:
+        - Khitokha
+        - Suchha
+        - Lunana
+        - Kechangka
+        - Sharithang
+        - Louri
+        - Pachu
+        - Bumtang
+        - Tashi Yangtse
+        - Thimpu
+        city:
+          Phuntsholing: Chhukha
+          Punakha: Punakha
+          Samdrup Jongkhar: Samdrup
+          Geylegphug: Geylegphug
+          Jakar: Bumthang
+          Paro: Paro
+          Tashigang: Tashigang
+          Wangdiphodrang: Wangdi Phodrang
+          Taga Dzong: Daga
+          Tongsa: Tongsa
+        short_name: Bhutan
+        iso_3166_1_alpha2: BT
+        official_name: Kingdom of Bhutan
+        demonym: Bhutanese
+      :BW:
+        tld: .bw
+        street_name:
+        - Habangan
+        - Sekheng
+        - Sesaloa
+        - Gaphatshwe
+        - Makgobi's Stad
+        - Kharekai
+        - Sebutu
+        - Moeng
+        - Lutlhe
+        - Chuma
+        city:
+          Gaborone: South-East
+          Francistown: North-East
+          Molepolole: Kweneng
+          Maun: North-West
+          Serowe: Central
+          Kanye: Southern
+          Mahalapye: Central
+          Mogoditshane: Kweneng
+          Mochudi: Kgatleng
+          Lobatse: South-East
+        short_name: Botswana
+        iso_3166_1_alpha2: BW
+        official_name: Republic of Botswana
+        demonym: Batswana
+      :BY:
+        postal_code: ! '######'
+        tld: .by
+        vat_number: ! 'УНП #########'
+        street_name:
+        - Vitorozh
+        - Sautki
+        - Velikaya Ussa
+        - Barseyevo
+        - Khmelnik
+        - Prudy
+        - Lushchevinka
+        - Chekhy
+        - Nivy
+        - Komissarskiy Sad
+        city:
+          Minsk: Minsk
+          Gomel: Homyel'skaya Voblasts'
+          Hrodna: Hrodzyenskaya Voblasts'
+          Brest: Brestskaya Voblasts'
+          Pinsk: Brestskaya Voblasts'
+          Orsha: Vitsyebskaya Voblasts'
+          Mazyr: Homyel'skaya Voblasts'
+          Salihorsk: Mahilyowskaya Voblasts'
+          Lida: Hrodzyenskaya Voblasts'
+          Zlobin: Homyel'skaya Voblasts'
+        short_name: Belarus
+        iso_3166_1_alpha2: BY
+        demonym: Belarusian
+      :BZ:
+        postal_code: 
+        tld: .bz
+        street_name:
+        - Fork Camp
+        - Cayo Town
+        - San Antonio
+        - Jimmy Cut
+        - Benque Viejo
+        - Pueblo Viejo
+        - Aguacate Camp
+        - Callar Creek
+        - Pescado Camp
+        - Teakettle Village
+        city:
+          Belize: Belize
+          San Ignacio: Cayo
+          Orange Walk: Orange Walk
+          Belmopan: Cayo
+          Dangriga: Stann Creek
+          Corozal: Corozal
+          San Pedro: Belize
+          Benque Viejo: Cayo
+          Punta Gorda: Toledo
+          Waha Leaf Camp: Toledo
+        short_name: Belize
+        iso_3166_1_alpha2: BZ
+        official_name: Belize
+        demonym: Belizean
+      :CA:
+        postal_code: ! '?#? #?#'
+        tld: .ca
+        vat_number: CA***************
+        street_name:
+        - Tyne Valley
+        - Saint-Paul-l'Ermite
+        - Belbutte
+        - Rose Harbour
+        - Pynns Brook
+        - Leaf River
+        - Gallows
+        - Brabant
+        - Dalton Post
+        - Legal
+        city:
+          Toronto: Ontario
+          Montreal: Quebec
+          Vancouver: British Columbia
+          Calgary: Alberta
+          Ottawa: Ontario
+          Edmonton: Alberta
+          Hamilton: Ontario
+          Quebec: Quebec
+          Winnipeg: Manitoba
+          Kitchener: Ontario
         short_name: Canada
         iso_3166_1_alpha2: CA
         demonym: Canadian
-        tld: .ca
-      CV:
-        short_name: Cape Verde
-        iso_3166_1_alpha2: CV
-        official_name: Republic of Cape Verde
-        demonym: Cape Verdean
-        tld: .cv
-      CF:
-        short_name: Central African Republic
-        iso_3166_1_alpha2: CF
-        official_name: Central African Republic
-        demonym: Central African
-        tld: .cf
-      TD:
-        short_name: Chad
-        iso_3166_1_alpha2: TD
-        official_name: Republic of Chad
-        demonym: Chadian
-        tld: .td
-      CL:
-        short_name: Chile
-        iso_3166_1_alpha2: CL
-        official_name: Republic of Chile
-        demonym: Chilean
-        tld: .cl
-      CN:
-        short_name: China
-        iso_3166_1_alpha2: CN
-        official_name: People’s Republic of China
-        demonym: Chinese
-        tld: .cn
-      CO:
-        short_name: Colombia
-        iso_3166_1_alpha2: CO
-        official_name: Republic of Colombia
-        demonym: Colombian
-        tld: .co
-      KM:
-        short_name: Comoros
-        iso_3166_1_alpha2: KM
-        official_name: Union of the Comoros
-        demonym: Comorian
-        tld: .km
-      CD:
+      :CD:
+        tld: .cd
+        street_name:
+        - Kimafwani
+        - Mupompa
+        - Gandu II
+        - Baruru
+        - Kalambaye
+        - Mokongo
+        - Mbala
+        - Talama
+        - Vinda
+        - Mulubule
+        city:
+          Kinshasa: Kinshasa
+          Lubumbashi: Katanga
+          Mbuji-Mayi: Kasai-Oriental
+          Kisangani: Orientale
+          Kananga: 
+          Likasi: Katanga
+          Boma: Bas-Congo
+          Tshikapa: 
+          Bukavu: Sud-Kivu
+          Mwene-Ditu: 
         short_name: Democratic Republic of the Congo
         sortable_name: Congo, Democratic Republic of the
         iso_3166_1_alpha2: CD
         demonym: Congolese
-        tld: .cd
-      CG:
+      :CF:
+        tld: .cf
+        street_name:
+        - Bodoukpo I
+        - Guita Kuluba
+        - Kapou II
+        - Mbadoro
+        - Galezou
+        - Touga
+        - Tinguéré Mbi
+        - Moudou
+        - Gouatagba
+        - Dagofo
+        city:
+          Bangui: Bangui
+          Carnot: Mambere-Kadei
+          Mbaïki: Lobaye
+          Berbérati: Mambere-Kadei
+          Bimbo: Ombella-Mpoko
+          Bouar: Nana-Mambere
+          Bambari: Ouaka
+          Nola: Sangha-Mbaere
+          Bria: Haute-Kotto
+          Bossangoa: Ouham
+        short_name: Central African Republic
+        iso_3166_1_alpha2: CF
+        official_name: Central African Republic
+        demonym: Central African
+      :CG:
+        tld: .cg
+        street_name:
+        - Kouanzé
+        - Mikonge
+        - Boundzoukou
+        - N'Tima
+        - Likendzé
+        - Obo
+        - Mouangui
+        - Bwanlanga
+        - Mabima
+        - Kari-Zoungou
+        city:
+          Brazzaville: Brazzaville
+          Nkayi: Bouenza
+          Loubomo: Niari
+          Loandjili: Kouilou
+          Madingou: Bouenza
+          Mossendjo: Niari
+          Gamboma: Plateaux
+          Impfondo: Likouala
+          Sibiti: Lekoumou
+          Ouésso: Sangha
         short_name: Republic of the Congo
         sortable_name: Congo, Republic of the
         iso_3166_1_alpha2: CG
         demonym: Congolese
-        tld: .cg
-      CR:
+      :CH:
+        postal_code: ! '####'
+        tld: .ch
+        vat_number: CH######
+        street_name:
+        - Pusced di Sopra
+        - Silvaplauna
+        - Gwatt
+        - Le Crêt
+        - Monti di Odro
+        - Eaux-Vives
+        - Faido-Borgo
+        - Walzenhausen
+        - Lanna
+        - Innerferrera
+        city:
+          Zürich: Zurich
+          Geneva: Geneve
+          Basel: Basel-Stadt
+          Bern: Bern
+          Lausanne: Vaud
+          Winterthur: Zurich
+          Luzern: Luzern
+          Biel: Bern
+          Thun: Bern
+          La Chaux-de-Fonds: Neuchatel
+        short_name: Switzerland
+        iso_3166_1_alpha2: CH
+        official_name: Swiss Confederation
+        demonym: Swiss
+      :CI:
+        tld: .ci
+        street_name:
+        - Diafla
+        - Bonao
+        - Kapigui
+        - Ouassou
+        - Akroubangbokro
+        - Douotondié
+        - Kaloufla
+        - Solognougou
+        - Niali Gribouo
+        - Dégouapleu
+        city:
+          Abidjan: Lagunes
+          Bouaké: Vallee du Bandama
+          Daloa: Haut-Sassandra
+          Yamoussoukro: 
+          San-Pédro: Bas-Sassandra
+          Divo: Sud-Bandama
+          Korhogo: Savanes
+          Anyama: 
+          Abengourou: Moyen-Comoe
+          Man: Dix-Huit Montagnes
+        short_name: Côte d’Ivoire
+        iso_3166_1_alpha2: CI
+        official_name: Republic of Côte d’Ivoire
+        demonym:
+        - Ivorian
+        - Ivoirian
+      :CL:
+        postal_code: ! '#######'
+        tld: .cl
+        vat_number: CL########-#
+        street_name:
+        - Béter
+        - El Dadín
+        - San José
+        - Cailloma
+        - Alto de Jahuel
+        - Ciudad Temuco
+        - Hueso
+        - Puerto Aldea
+        - Quechoco
+        - Chapiquilta
+        city:
+          Santiago: Region Metropolitana
+          Antofagasta: Antofagasta
+          Viña del Mar: Valparaiso
+          Valparaíso: Valparaiso
+          Talcahuano: Bio-Bio
+          San Bernardo: Region Metropolitana
+          Temuco: Araucania
+          Iquique: Tarapaca
+          Concepción: Bio-Bio
+          Rancagua: Libertador General Bernardo O'Higgins
+        short_name: Chile
+        iso_3166_1_alpha2: CL
+        official_name: Republic of Chile
+        demonym: Chilean
+      :CM:
+        tld: .cm
+        street_name:
+        - Nguiemo
+        - Mbési
+        - Fokouenki
+        - Ndokbasagog I
+        - Amkindin
+        - Baningaziouto
+        - Ouanbaré
+        - Kango Kéféro
+        - Madouma
+        - Moumour
+        city:
+          Douala: Littoral
+          Yaoundé: Centre
+          Garoua: Nord
+          Kousséri: Extreme-Nord
+          Bamenda: Nord-Ouest
+          Maroua: Extreme-Nord
+          Bafoussam: Ouest
+          Mokolo: Extreme-Nord
+          Ngaoundéré: Adamaoua
+          Bertoua: Est
+        short_name: Cameroon
+        iso_3166_1_alpha2: CM
+        official_name: Republic of Cameroon
+        demonym: Cameroonian
+      :CN:
+        postal_code: ! '######'
+        tld: .cn
+        street_name:
+        - Tieluzi
+        - Liuzhan
+        - Gangkouzhen
+        - Fengshuling
+        - Niupu
+        - Tianjing
+        - Lianpan
+        - Chaihepu
+        - Liuchiachang
+        - Xiangzhou
+        city:
+          Shanghai: Shanghai
+          Peking: Beijing
+          Wuhan: Hubei
+          Chongqing: Chongqing
+          Xian: Shaanxi
+          Chengdu: Sichuan
+          Tianjin: Tianjin
+          Shenyang: Liaoning
+          Harbin: Heilongjiang
+          Guangzhou: Guangdong
+        short_name: China
+        iso_3166_1_alpha2: CN
+        official_name: People’s Republic of China
+        demonym: Chinese
+      :CO:
+        postal_code: ! '######'
+        tld: .co
+        street_name:
+        - Loma de Pascasio
+        - Corregimiento Bocas del Rosario
+        - Carizal
+        - Nicoya
+        - Campo Hermosa
+        - Caserío Gitarrilla
+        - Playa
+        - La Independencia
+        - Ranchería Bogota
+        - El Cairo
+        city:
+          Bogotá: Cundinamarca
+          Cali: Valle del Cauca
+          Medellín: Antioquia
+          Barranquilla: Atlantico
+          Cartagena: Bolivar Department
+          Cúcuta: Norte de Santander
+          Bucaramanga: Santander
+          Pereira: Risaralda
+          Santa Marta: Magdalena Department
+          Ibagué: Tolima
+        short_name: Colombia
+        iso_3166_1_alpha2: CO
+        official_name: Republic of Colombia
+        demonym: Colombian
+      :CR:
+        postal_code: ! '#####'
+        tld: .cr
+        street_name:
+        - Bajos Pascua
+        - Cabuya
+        - Montero
+        - La Arena
+        - Santa Isabel
+        - Caimito
+        - Sardinal
+        - El Rincón
+        - Villa Real
+        - Sirena
+        city:
+          San José: San Jose
+          Limón: Limon
+          San Francisco: Heredia
+          Alajuela: Alajuela
+          Liberia: Guanacaste
+          Paraíso: Cartago
+          Desamparados: San Jose
+          Puntarenas: Puntarenas
+          Curridabat: San Jose
         short_name: Costa Rica
         iso_3166_1_alpha2: CR
         official_name: Republic of Costa Rica
         demonym: Costa Rican
-        tld: .cr
-      CI:
-        short_name: Côte d’Ivoire
-        iso_3166_1_alpha2: CI
-        official_name: Republic of Côte d’Ivoire
-        demonym: [Ivorian, Ivoirian]
-        tld: .ci
-      HR:
-        short_name: Croatia
-        iso_3166_1_alpha2: HR
-        official_name: Republic of Croatia
-        demonym: Croat
-        tld: .hr
-      CU:
+      :CU:
+        tld: .cu
+        street_name:
+        - Onsoria
+        - Mameya
+        - San Cayetano
+        - Alonzo
+        - Gavilla
+        - Florentina
+        - Loma Candela
+        - San Juan de Cabezón
+        - Almendrita
+        - Poblado de murgas
+        city:
+          Santiago de Cuba: Santiago de Cuba
+          Camagüey: Camaguey
+          Holguín: Holguin
+          Guantánamo: Guantanamo
+          Santa Clara: Villa Clara
+          Las Tunas: Las Tunas
+          Bayamo: Granma
+          Pinar del Río: Pinar del Rio
+          Cienfuegos: Cienfuegos
+          Matanzas: Matanzas
         short_name: Cuba
         iso_3166_1_alpha2: CU
         official_name: Republic of Cuba
         demonym: Cuban
-        tld: .cu
-      CY:
+      :CV:
+        postal_code: ! '####'
+        tld: .cv
+        street_name:
+        - João Barrosa
+        - Esgamaleiro
+        - Pae Amaro
+        - São Tiago
+        - Janelas
+        - Patim
+        - Pinto
+        - Nhã Marco
+        - Cachoca
+        - Barbasco
+        city:
+          Praia: Sao Domingos
+          Mindelo: 
+          Santa Maria: 
+          São Filipe: Sao Domingos
+          Assomada: Sao Domingos
+          Tarrafal: Sao Domingos
+          Porto Novo: 
+          Ribeira Brava: 
+          Ponta do Sol: 
+          Vila do Maio: Sao Domingos
+        short_name: Cape Verde
+        iso_3166_1_alpha2: CV
+        official_name: Republic of Cape Verde
+        demonym: Cape Verdean
+      :CY:
+        postal_code: ! '####'
+        tld: .cy
+        vat_number: CY########?
+        street_name:
+        - Aksu
+        - Pile
+        - Hamidiye
+        - Aykarida
+        - Akapnou
+        - Monarka
+        - Çite
+        - YerovasÄ±
+        - Alektora
+        - Aymarina
+        city:
+          Lemesos: Limassol
+          Larnaca: Larnaca
+          Gazimagusa: Famagusta
+          Nicosia: Nicosia
+          Páfos: Paphos
+          Girne: Kyrenia
+          Güzelyurt: Nicosia
+          Aradippou: Larnaca
+          Paralimni: Famagusta
+          Lefka: Nicosia
         short_name: Cyprus
         iso_3166_1_alpha2: CY
         official_name: Republic of Cyprus
         demonym: Cypriot
-        tld: .cy
-      CZ:
+      :CZ:
+        postal_code: ! '### ##'
+        tld: .cz
+        vat_number:
+        - CZ########
+        - CZ#########
+        - CZ##########
+        street_name:
+        - Podolí Druhé
+        - Davle
+        - Zlicko
+        - Vsebor
+        - Spittelgrund
+        - Kunnersdorf
+        - Borschitz
+        - Lhota u Olesnice
+        - Jaroslavické Paseky
+        - Librantice
+        city:
+          Prague: Hlavni mesto Praha
+          Brno: Jihomoravsky kraj
+          Ostrava: Moravskoslezsky kraj
+          Plzen: Plzensky kraj
+          Olomouc: Olomoucky kraj
+          Liberec: Liberecky kraj
+          Ceske Budejovice: Jihocesky kraj
+          Hradec Králové: Kralovehradecky kraj
+          Ústí: Ustecky kraj
+          Pardubice: Pardubicky kraj
         short_name: Czech Republic
         iso_3166_1_alpha2: CZ
         official_name: Czech Republic
         demonym: Czech
-        tld: .cz
-      DK:
-        short_name: Denmark
-        iso_3166_1_alpha2: DK
-        official_name: Kingdom of Denmark
-        demonym: Danish
-        tld: .dk
-      DJ:
+      :DE:
+        postal_code: ! '#####'
+        tld: .de
+        vat_number: DE#########
+        street_name:
+        - Finowfurt
+        - Rietzmar
+        - Lockwisch
+        - Lockstedter Lager
+        - Vorderreckenberg
+        - Klein Ströbitz
+        - Fresenfelde
+        - Drahendorf
+        - Steimke
+        - Sandmühle
+        city:
+          Berlin: Berlin
+          Hamburg: Hamburg
+          Munich: Bayern
+          Cologne: Nordrhein-Westfalen
+          Frankfurt: Hessen
+          Dortmund: Nordrhein-Westfalen
+          Stuttgart: Baden-Wurttemberg
+          Düsseldorf: Nordrhein-Westfalen
+          Essen: Nordrhein-Westfalen
+          Bremen: Bremen
+        short_name: Germany
+        iso_3166_1_alpha2: DE
+        official_name: Federal Republic of Germany
+        demonym: German
+      :DJ:
+        tld: .dj
+        street_name:
+        - Balho
+        - Ambouli
+        - Gaherré
+        - Yoboki
+        - Gâlâfi
+        - Mouddo
+        - ! '`Ali Sabih'
+        - Dorra
+        - La Plaine
+        - Boulaos Camp
+        city:
+          Jibuti: 
+          Ali Adda: Ali Sabieh
+          La-waada: 
+          Assa-ela: 
+          Loyada: 
+          Danan: Ali Sabieh
+          ! '`Ali `Addé': Ali Sabieh
+          Tagiura: Tadjoura
+          Wê`a: 
+          Teoao: 
         short_name: Djibouti
         iso_3166_1_alpha2: DJ
         official_name: Republic of Djibouti
         demonym: Djiboutian
-        tld: .dj
-      DM:
+      :DK:
+        postal_code: ! '####'
+        tld: .dk
+        vat_number: ! 'DK## ## ## ##'
+        street_name:
+        - Filholm
+        - Handest
+        - Viby
+        - Tepstrup
+        - Sønder Vinge
+        - Brandstrup
+        - Aalbæk
+        - Veistrup
+        - Tingtved-Borup
+        - Olskirke
+        city:
+          Copenhagen: 
+          Århus: 
+          Odense: 
+          Aalborg: 
+          Esbjerg: 
+          Randers: 
+          Kolding: 
+          Vejle: 
+          Horsens: 
+          Roskilde: 
+        short_name: Denmark
+        iso_3166_1_alpha2: DK
+        official_name: Kingdom of Denmark
+        demonym: Danish
+      :DM:
+        tld: .dm
+        street_name:
+        - Belvidere
+        - Paix Bouche
+        - Guillet
+        - Calibishie
+        - Vieille Case
+        - Riversdale
+        - Méro
+        - Morne Raquette
+        - Morne Jaune
+        - Northern Loop
+        city:
+          Roseau: Saint George
+          Portsmouth: Saint John
+          Berekua: Saint Patrick
+          Marigot: Saint Andrew
+          Atkinson: Saint David
+          La Plaine: Saint Patrick
+          Mahaut: Saint Paul
+          Castle Bruce: Saint David
+          Wesley: Saint Andrew
+          Coulihaut: Saint Peter
         short_name: Dominica
         iso_3166_1_alpha2: DM
         official_name: Commonwealth of Dominica
         demonym: Dominican
-        tld: .dm
-      DO:
+      :DO:
+        tld: .do
+        street_name:
+        - La Sabana Chavón
+        - La Higera Abajo
+        - La Piña Vieja
+        - Sabana Rey
+        - Manaclar
+        - El Jobo
+        - La Cabra
+        - Naranjos
+        - Miguecho
+        - La Sigua
+        city:
+          Santo Domingo: Distrito Nacional
+          Santiago: Santiago
+          San Pedro de Macorís: San Pedro De Macoris
+          La Romana: La Romana
+          San Cristóbal: San Cristobal
+          San Francisco de Macorís: Duarte
+          Higüey: La Altagracia
+          Puerto Plata: Puerto Plata
+          La Vega: La Vega
+          Barahona: Barahona
         short_name: Dominican Republic
         iso_3166_1_alpha2: DO
         official_name: Dominican Republic
         demonym: Dominican
-        tld: .do
-      TL:
-        short_name: East Timor
-        iso_3166_1_alpha2: TL
-        official_name: Democratic Republic of Timor-Leste
-        demonym: East Timorese
-        tld: .tl
-      EC:
+      :DZ:
+        postal_code: ! '#####'
+        tld: .dz
+        street_name:
+        - El Djedid
+        - Douar Berakna
+        - Douar Nedjadjra
+        - Kadiria
+        - ! '''Aïn Sidi Ali'
+        - Douar Nouacer
+        - Canrobert
+        - Laouachria
+        - Kef el 'Ogâb
+        - Oued Sebbah
+        city:
+          Algiers: Alger
+          Wahran: Oran
+          Constantine: Constantine
+          Warqla: Ouargla
+          Médéa: Medea
+          Adrar: Adrar
+          Aflu: Laghouat
+          Birin: Medea
+          Tuggurt: Ouargla
+          Timizart: Tizi Ouzou
+        short_name: Algeria
+        iso_3166_1_alpha2: DZ
+        official_name: People’s Democratic Republic of Algeria
+        demonym: Algerian
+      :EC:
+        postal_code: EC######
+        tld: .ec
+        vat_number: EC#############
+        street_name:
+        - Oñashapa
+        - Ishubamba
+        - Ciano
+        - Hacienda Huaraquí Chiquito
+        - Rumipamba
+        - Guintza
+        - Hacienda Chituhuaicu
+        - Santa Ana
+        - Chaupi
+        - Pusia
+        city:
+          Guayaquil: Guayas
+          Quito: Pichincha
+          Cuenca: Azuay
+          Santo Domingo: Pichincha
+          Machala: El Oro
+          Manta: Manabi
+          Portoviejo: Manabi
+          Ambato: Tungurahua
+          Riobamba: Chimborazo
+          Quevedo: Los Rios
         short_name: Ecuador
         iso_3166_1_alpha2: EC
         official_name: Republic of Ecuador
         demonym: Ecuadorian
-        tld: .ec
-      EG:
-        short_name: Egypt
-        iso_3166_1_alpha2: EG
-        official_name: Arab Republic of Egypt
-        demonym: Egyptian
-        tld: .eg
-      SV:
-        short_name: El Salvador
-        iso_3166_1_alpha2: SV
-        official_name: Republic of El Salvador
-        demonym: [Salvadorian, Salvadorean, Salvadoran, Central American]
-        tld: .sv
-      GQ:
-        short_name: Equatorial Guinea
-        iso_3166_1_alpha2: GQ
-        demonym: [Equatoguinean, Equatorial Guinean]
-        tld: .gq
-      ER:
-        short_name: Eritrea
-        iso_3166_1_alpha2: ER
-        official_name: State of Eritrea
-        demonym: Eritrean
-        tld: .er
-      EE:
+      :EE:
+        postal_code: ! '#####'
+        tld: .ee
+        vat_number: EE#########
+        street_name:
+        - Metskyula
+        - Hallivanni
+        - Vanaküla
+        - Spithami
+        - Oru
+        - Smolnitsa
+        - Aru
+        - Vizu
+        - Aitsra
+        - Höbringi
+        city:
+          Tallinn: Harjumaa
+          Tartu: Tartumaa
+          Narva: Ida-Virumaa
+          Kohtla-Järve: Ida-Virumaa
+          Pärnu: Parnumaa
+          Viljandi: Viljandimaa
+          Rakvere: Laane-Virumaa
+          Sillamäe: Ida-Virumaa
+          Maardu: Harjumaa
+          Kuressaare: Saaremaa
         short_name: Estonia
         iso_3166_1_alpha2: EE
         official_name: Republic of Estonia
         demonym: Estonian
-        tld: .ee
-      ET:
+      :EG:
+        postal_code: ! '#####'
+        tld: .eg
+        street_name:
+        - Fukah
+        - Damanhur el-Wahsh
+        - Tambidi
+        - Qasr Hawr
+        - Qabîlet el Gahma
+        - El Sa`âyda
+        - Dawwar `Uthman Burayyik
+        - Tushkah Gharb
+        - Salamun Bahri
+        - Mit al Qayid
+        city:
+          Cairo: Al Qahirah
+          Alexandria: Al Iskandariyah
+          Gizeh: Al Jizah
+          Port Said: Bur Sa'id
+          Suez: As Suways
+          El Mahalla el Kubra: Al Gharbiyah
+          Luxor: Qina
+          Asyut: Asyut
+          Tanta: Al Gharbiyah
+          El Faiyûm: Al Fayyum
+        short_name: Egypt
+        iso_3166_1_alpha2: EG
+        official_name: Arab Republic of Egypt
+        demonym: Egyptian
+      :ER:
+        tld: .er
+        street_name:
+        - Adi Casci
+        - Asa'ila
+        - Ad Taille
+        - Adi Mahari Cristos
+        - Per Tokar
+        - Gonye
+        - Ad Edug
+        - May Habar (1)
+        - Alibarate
+        - Marta
+        city:
+          Asmara: 
+          Addi Ugri: 
+          Barentu: 
+          Ginda: 
+          Edd: 
+          Teseney: 
+          Elaberet: 
+          Berekintiya: 
+          Sanda: 
+          Aranat: 
+        short_name: Eritrea
+        iso_3166_1_alpha2: ER
+        official_name: State of Eritrea
+        demonym: Eritrean
+      :ES:
+        postal_code: ! '#####'
+        tld: .es
+        vat_number: ES*#######*
+        street_name:
+        - Espinareda de Vega
+        - La Concepción
+        - Redonda
+        - Sabajanes
+        - Berlanga de Duero
+        - La Alberquilla
+        - Lueiro
+        - Ola
+        - Mesegar de Corneja
+        - Caserío Robledo
+        city:
+          Madrid: Madrid
+          Barcelona: Catalonia
+          Valencia: Comunidad Valenciana
+          Sevilla: Andalucia
+          Zaragoza: Aragon
+          Málaga: Andalucia
+          Murcia: Murcia
+          Palma: Islas Baleares
+          Las Palmas: Canarias
+          Bilbao: Pais Vasco
+        short_name: Spain
+        iso_3166_1_alpha2: ES
+        official_name: Kingdom of Spain
+        demonym: Spanish
+      :ET:
+        tld: .et
+        street_name:
+        - Lega
+        - Amiyo
+        - Birkuta
+        - Debegoriyale
+        - Golonco
+        - Gebibda
+        - Mekane Selam
+        - Tulu Lench'a
+        - Bura Arba
+        - Aba Boru
+        city:
+          Addis Abeba: 
+          Dire Dawa: 
+          Nazret: 
+          Bahir Dar: 
+          Gondar: 
+          Dese: 
+          Awassa: 
+          Jimma: 
+          Debre Zeyit: 
+          Kembolcha: 
         short_name: Ethiopia
         iso_3166_1_alpha2: ET
         official_name: Federal Democratic Republic of Ethiopia
         demonym: Ethiopian
-        tld: .et
-      FJ:
-        short_name: Fiji
-        iso_3166_1_alpha2: FJ
-        official_name: Republic of the Fiji Islands
-        demonym: [Fiji Islander, Fijian]
-        tld: .fj
-      FI:
+      :FI:
+        postal_code: ! '#####'
+        tld: .fi
+        vat_number: FI########
+        street_name:
+        - Tahkoniemi
+        - Vorna
+        - Kausala
+        - Levälä
+        - Hujakkala
+        - Lemo Vik
+        - Saijanlahti
+        - Tervamäki
+        - Karby
+        - Soppeenmäki
+        city:
+          Helsinki: Southern Finland
+          Espoo: Southern Finland
+          Tampere: Western Finland
+          Turku: Western Finland
+          Oulu: Oulu
+          Lahti: Southern Finland
+          Kuopio: Eastern Finland
+          Jyväskylä: Western Finland
+          Pori: Western Finland
+          Lappeenranta: Southern Finland
         short_name: Finland
         iso_3166_1_alpha2: FI
         official_name: Republic of Finland
-        demonym: [Finn, Finnish]
-        tld: .fi
-      FR:
+        demonym:
+        - Finn
+        - Finnish
+      :FJ:
+        tld: .fj
+        street_name:
+        - Taulevu
+        - Lovoni
+        - Naturu
+        - Wayalevu
+        - Vatu-lei-le
+        - Lewa
+        - Lomainasau
+        - Ndelaiyandua
+        - Avea
+        - Nareva
+        city:
+          Naivikisara: Central
+          Vuya: Northern
+          Mbiaungunu: Northern
+          Naililili: Central
+          Nasukamai: Western
+          Vunivundi: Northern
+          Nambouono: Northern
+          Nasauvuki: Central
+          Naisaumbua: Central
+          Vaua: Central
+        short_name: Fiji
+        iso_3166_1_alpha2: FJ
+        official_name: Republic of the Fiji Islands
+        demonym:
+        - Fiji Islander
+        - Fijian
+      :FM:
+        postal_code: ! '#####'
+        tld: .fm
+        street_name:
+        - Fogen
+        - Uenfra
+        - Maaloon
+        - Danipei
+        - Run'uw
+        - Malowai
+        - Koronia
+        - Madlay
+        - Tagenen
+        - Eriel
+        city:
+          Ninseitamw: Pohnpei
+          Inuf: Yap
+          Yekula: Kosrae
+          Talguw: Yap
+          Uanajan: Yap
+          Kanoon: Yap
+          Gaeregei: Yap
+          Tomil: Yap
+          Eirech: Yap
+          Mongal: Yap
+        short_name: Federated States of Micronesia
+        sortable_name: Micronesia, Federated States of
+        iso_3166_1_alpha2: FM
+        official_name: Federated States of Micronesia
+        demonym: Micronesian
+      :FR:
+        postal_code: ! '#####'
+        tld: .fr
+        vat_number: ! 'FR** #########'
+        street_name:
+        - Étalondes
+        - Gijounet
+        - Canouville
+        - Notre-Dame-du-Thil
+        - Babeau
+        - Saint-Gratien
+        - Caurel
+        - Préaux
+        - La Frette
+        - Vaussaire
+        city:
+          Paris: Ile-de-France
+          Marseille: Provence-Alpes-Cote d'Azur
+          Lyon: Rhone-Alpes
+          Toulouse: Midi-Pyrenees
+          Nice: Provence-Alpes-Cote d'Azur
+          Nantes: Pays de la Loire
+          Strasbourg: Alsace
+          Montpellier: Languedoc-Roussillon
+          Bordeaux: Aquitaine
+          Rennes: Bretagne
         short_name: France
         iso_3166_1_alpha2: FR
         official_name: French Republic
         demonym: French
-        tld: .fr
-      GA:
+      :GA:
+        tld: .ga
+        street_name:
+        - Mbolensok
+        - Niolokoué
+        - Fortifié du Lékoni
+        - Afane-Mendone
+        - Koumamala
+        - Oyane
+        - Diolo
+        - Malinga
+        - Abame
+        - Makanda
+        city:
+          Libreville: Estuaire
+          Port-Gentil: Ogooue-Maritime
+          Oyem: Woleu-Ntem
+          Moanda: Haut-Ogooue
+          Mouila: Ngounie
+          Lambaréné: Moyen-Ogooue
+          Tchibanga: Nyanga
+          Koulamoutou: Ogooue-Lolo
+          Makokou: Ogooue-Ivindo
+          Bitam: Woleu-Ntem
         short_name: Gabon
         iso_3166_1_alpha2: GA
         official_name: Gabonese Republic
-        demonym: [Gabonese, Gabonaise]
-        tld: .ga
-      GM:
+        demonym:
+        - Gabonese
+        - Gabonaise
+      :GB:
+        postal_code:
+        - ! '?# #??'
+        - ! '?## #??'
+        - ! '?#? #??'
+        - ! '??# #??'
+        - ! '??## #??'
+        - ! '??#? #??'
+        street_address:
+        - ! '##'
+        - ! '###'
+        - ! '####'
+        - ! '##½'
+        - ! 'N°. #'
+        - ! 'N°. ##'
+        tld: .uk
+        vat_number:
+        - ! 'GB### #### ##'
+        - ! 'GB### #### ## ###'
+        - ! 'GB888 8### ##'
+        - GBGD###
+        - GBHA###
+        street_name:
+        - Kilmote
+        - Gorseinon
+        - Feltwell
+        - Temple Cloud
+        - Llanrian
+        - Rossington
+        - Sutton Mallet
+        - Oldhamstocks
+        - Farrington Gurney
+        - Tullyverry
+        city:
+          London:
+          - London
+          - England
+          Birmingham:
+          - Birmingham
+          - England
+          Glasgow:
+          - Glasgow City
+          - Scotland
+          Belfast:
+          - Belfast
+          - Northern Ireland
+          Liverpool:
+          - Liverpool
+          - England
+          Leeds:
+          - Leeds
+          - England
+          Sheffield:
+          - Sheffield
+          - England
+          Edinburgh:
+          - Edinburgh
+          - Scotland
+          Bristol:
+          - Bristol
+          - England
+          Manchester:
+          - Manchester
+          - England
+        short_name: United Kingdom
+        iso_3166_1_alpha2: GB
+        official_name: United Kingdom of Great Britain
+        demonym: British
+      :GD:
+        tld: .gd
+        street_name:
+        - Upper La Tante
+        - Grand Pauvre
+        - Beaton
+        - Clarkes Court
+        - Rose Hill
+        - Richmond Hill
+        - Tricolar
+        - Belmont
+        - Thebaid
+        - Charlotte Town
+        city:
+          Gouyave: Saint John
+          Grenville: Saint Andrew
+          Victoria: Saint Mark
+          Sauteurs: Saint Patrick
+          Hillsborough: Saint Patrick
+          Paraclete: Saint Andrew
+          Baillies Bacolet: Saint David
+          The Lance: Saint Mark
+          Morne Fendue: Saint Patrick
+          Dumfermline: Saint Andrew
+        short_name: Grenada
+        iso_3166_1_alpha2: GD
+        demonym:
+        - Grenadian
+        - Greenz
+        - Greens
+      :GE:
+        postal_code: ! '####'
+        tld: .ge
+        street_name:
+        - Vadzhanisi
+        - Nachkadou
+        - Anastasiyevka
+        - Mzet'amze
+        - Srednyaya Cheliata
+        - Tirdznisi
+        - Bazuani
+        - Tila-Kana
+        - Ag-Kerpi
+        - Chista
+        city:
+          Tbilisi: Dushet'is Raioni
+          Sukhumi: Abkhazia
+          Zugdidi: Zestap'onis Raioni
+          Gori: Goris Raioni
+          Samtredia: Sagarejos Raioni
+          Khashuri: Khashuris Raioni
+          Senaki: Samtrediis Raioni
+          Marneuli: Dushet'is Raioni
+          Tkvarcheli: Abkhazia
+          Tskaltubo: Tsalkis Raioni
+        short_name: Georgia
+        iso_3166_1_alpha2: GE
+        demonym: Georgian
+      :GH:
+        tld: .gh
+        street_name:
+        - Keshago
+        - Old Zagbeli
+        - Bosuma
+        - Mosiaso
+        - Buakyisuazo
+        - Hwida
+        - Kassane
+        - Tapere
+        - Santrokofi Gbodome
+        - Dufo
+        city:
+          Accra: Greater Accra
+          Kumasi: Ashanti
+          Tamale: Northern
+          Tema: Volta
+          Teshie: Volta
+          Cape Coast: Central
+          Obuasi: Ashanti
+          Takoradi: Western
+          Sekondi: Western
+          Koforidua: Eastern
+        short_name: Ghana
+        iso_3166_1_alpha2: GH
+        official_name: Republic of Ghana
+        demonym: Ghanaian
+      :GM:
+        tld: .gm
+        street_name:
+        - Sare Mamoudu
+        - Ker Samba Sowe
+        - Ker Hardo
+        - Bisandugu
+        - Ker Bambo Lowe
+        - Kuiran
+        - Njogoben
+        - Sare Nfali
+        - Kudang Tenda
+        - Sobaly
+        city:
+          Serekunda: Western
+          Brikama: Western
+          Bakau: Western
+          Farafenni: Lower River
+          Banjul: Banjul
+          Lamin: Western
+          Basse: Upper River
+          Sukuta: Western
+          Gunjur: Western
+          Kuntaur: Central River
         short_name: The Gambia
         sortable_name: Gambia, The
         iso_3166_1_alpha2: GM
         official_name: Republic of the Gambia
         demonym: Gambian
-        tld: .gm
-      GE:
-        short_name: Georgia
-        iso_3166_1_alpha2: GE
-        demonym: Georgian
-        tld: .ge
-      DE:
-        short_name: Germany
-        iso_3166_1_alpha2: DE
-        official_name: Federal Republic of Germany
-        demonym: German
-        tld: .de
-      GH:
-        short_name: Ghana
-        iso_3166_1_alpha2: GH
-        official_name: Republic of Ghana
-        demonym: Ghanaian
-        tld: .gh
-      GR:
-        short_name: Greece
-        iso_3166_1_alpha2: GR
-        official_name: Hellenic Republic
-        demonym: Greek
-        tld: .gr
-      GD:
-        short_name: Grenada
-        iso_3166_1_alpha2: GD
-        demonym: [Grenadian, Greenz, Greens]
-        tld: .gd
-      GT:
-        short_name: Guatemala
-        iso_3166_1_alpha2: GT
-        official_name: Republic of Guatemala
-        demonym: Guatemalan
-        tld: .gt
-      GN:
+      :GN:
+        tld: .gn
+        street_name:
+        - Kavasse
+        - Fassala
+        - Fassirédougou
+        - Goungourouma
+        - Sinankoro
+        - Dentéforé
+        - Kodian
+        - Batak
+        - Bambaya
+        - Paméré
+        city:
+          Conakry: Conakry
+          Nzérékoré: Nzerekore
+          Kindia: Kindia
+          Kankan: Kankan
+          Kissidougou: Kissidougou
+          Labé: Labe
+          Siguiri: Siguiri
+          Macenta: Macenta
+          Mamou: Mamou
+          Télimélé: Telimele
         short_name: Guinea
         iso_3166_1_alpha2: GN
         official_name: Republic of Guinea
         demonym: Guinean
-        tld: .gn
-      GW:
+      :GQ:
+        tld: .gq
+        street_name:
+        - Ofos
+        - Ayan
+        - Malancha
+        - Mbola
+        - Niemayong
+        - Añomo
+        - Beletipa
+        - Nvomosi
+        - Bisong
+        - Bicoeme
+        city:
+          Bata: Litoral
+          Malabo: Bioko Norte
+          Ebebiyín: Kie-Ntem
+          Aconibe: Centro Sur
+          Añisoc: Kie-Ntem
+          Luba: Bioko Sur
+          Evinayong: Centro Sur
+          Mongomo: Wele-Nzas
+          Micomeseng: Kie-Ntem
+          Mbini: Litoral
+        short_name: Equatorial Guinea
+        iso_3166_1_alpha2: GQ
+        demonym:
+        - Equatoguinean
+        - Equatorial Guinean
+      :GR:
+        tld: .gr
+        vat_number: EL#########
+        street_name:
+        - Zakónina
+        - Mími
+        - Molókha
+        - Xidhaíika
+        - Rákhai
+        - Skafídhia
+        - Georgítsa
+        - Touloúmi
+        - Megáles Mandínies
+        - Laloukósta
+        city:
+          Athens: Attiki
+          Thessaloníki: Thessaloniki
+          Pátrai: Akhaia
+          Peristérion: Attiki
+          Iráklion: Iraklion
+          Lárisa: Larisa
+          Kallithéa: Attiki
+          Níkaia: Attiki
+          Kalamariá: Thessaloniki
+          Vólos: Magnisia
+        short_name: Greece
+        iso_3166_1_alpha2: GR
+        official_name: Hellenic Republic
+        demonym: Greek
+      :GT:
+        tld: .gt
+        street_name:
+        - Boca Ancha
+        - San Antonio
+        - Machaca
+        - Santa Clarita
+        - Piedras Negras
+        - Satexá
+        - Turbalá
+        - Arenal
+        - Puerta Abajo
+        - San Rafael Las Flores
+        city:
+          Guatemala City: Guatemala
+          Guatemala: Guatemala
+          Mixco: Guatemala
+          Villa Nueva: Guatemala
+          Petapa: Guatemala
+          San Juan Sacatepéquez: Guatemala
+          Quetzaltenango: Quetzaltenango
+          Villa Canales: Guatemala
+          Escuintla: Escuintla
+          Chinautla: Guatemala
+        short_name: Guatemala
+        iso_3166_1_alpha2: GT
+        official_name: Republic of Guatemala
+        demonym: Guatemalan
+      :GW:
+        tld: .gw
+        street_name:
+        - Umaro Baldé
+        - Glucar
+        - Cuboi
+        - Sinchã Iácà
+        - Sinchã Umaru
+        - Flaque Amedé
+        - Ganquecuta
+        - Cajana
+        - Reino de Indafe
+        - Sarero
+        city:
+          Bissau: Bissau
+          Bafatá: Bafata
+          Gabú: Gabu
+          Bissorã: Oio
+          Bolama: Bolama
+          Cacheu: Cacheu
+          Bubaque: Cacheu
+          Catió: Tombali
+          Mansôa: Oio
+          Buba: Quinara
         short_name: Guinea-Bissau
         iso_3166_1_alpha2: GW
         official_name: Republic of Guinea-Bissau
         demonym: Bissau-Guinean
-        tld: .gw
-      GY:
+      :GY:
+        tld: .gy
+        street_name:
+        - Den Amstel Village
+        - Saint Ignatius
+        - Bagotstown
+        - Iguapa
+        - Berebisiballi
+        - Aunama
+        - Barabara
+        - Minata
+        - Bel Air Springs
+        - Kanapang Village
+        city:
+          Georgetown: Demerara-Mahaica
+          Linden: Upper Demerara-Berbice
+          New Amsterdam: East Berbice-Corentyne
+          Bartica: Cuyuni-Mazaruni
+          Skeldon: East Berbice-Corentyne
+          Rosignol: Mahaica-Berbice
+          Ituni: Upper Demerara-Berbice
+          Vreed en Hoop: Essequibo Islands-West Demerara
+          Fort Wellington: Mahaica-Berbice
+          Mahaicony: Mahaica-Berbice
         short_name: Guyana
         iso_3166_1_alpha2: GY
         official_name: Co-operative Republic of Guyana
         demonym: Guyanese
-        tld: .gy
-      HT:
-        short_name: Haiti
-        iso_3166_1_alpha2: HT
-        official_name: Republic of Haiti
-        demonym: Haitian
-        tld: .ht
-      HN:
+      :HN:
+        tld: .hn
+        street_name:
+        - Quele Quele
+        - Moropocay
+        - Vía Inés
+        - El Chispal
+        - Pabellona
+        - Los Pocos
+        - Sabana del León
+        - Veguitas
+        - Farallanes
+        - El Borboyón
+        city:
+          Tegucigalpa: Francisco Morazan
+          San Pedro Sula: Cortes
+          Choloma: Cortes
+          La Ceiba: Atlantida
+          El Progreso: Yoro
+          Choluteca: Choluteca
+          Comayagua: Comayagua
+          Puerto Cortés: Cortes
+          La Lima: Cortes
+          Danlí: El Paraiso
         short_name: Honduras
         iso_3166_1_alpha2: HN
         official_name: Republic of Honduras
         demonym: Honduran
-        tld: .hn
-      HU:
+      :HR:
+        postal_code: ! '#####'
+        tld: .hr
+        vat_number: ! 'HR### ### ### ##'
+        street_name:
+        - Martinec
+        - Celikovici
+        - Brijoni
+        - Prnjavorac
+        - Klapavica Bruvanjska
+        - Stancija Valkanela
+        - Mali Godinj
+        - Dubrava
+        - Stubica-dolnji
+        - Lokvina
+        city:
+          Zagreb: Grad Zagreb
+          Split: Splitsko-Dalmatinska
+          Rijeka: Primorsko-Goranska
+          Osijek: Osjecko-Baranjska
+          Zadar: Zagrebacka
+          Slavonski Brod: Brodsko-Posavska
+          Pula: Istarska
+          Sesvete: Grad Zagreb
+          Karlovac: Karlovacka
+          Varazdin: Varazdinska
+        short_name: Croatia
+        iso_3166_1_alpha2: HR
+        official_name: Republic of Croatia
+        demonym: Croat
+      :HT:
+        tld: .ht
+        street_name:
+        - Doguine
+        - Borne Tante
+        - Tomarin
+        - Pelaro
+        - Nan Roux
+        - Gilbert
+        - Ka Dieu
+        - Balice
+        - Lacombe
+        - Bambou la Selle
+        city:
+          Port-au-Prince: Ouest
+          Carrefour: Ouest
+          Delmas: Ouest
+          Cap-Haïtien: Nord
+          Pétionville: Ouest
+          Gonaïves: Artibonite
+          Saint-Marc: Artibonite
+          Les Cayes: Sud
+          Verrettes: Artibonite
+          Port-de-Paix: Nord-Ouest
+        short_name: Haiti
+        iso_3166_1_alpha2: HT
+        official_name: Republic of Haiti
+        demonym: Haitian
+      :HU:
+        postal_code: ! '####'
+        tld: .hu
+        vat_number: HU########
+        street_name:
+        - Nagy Vince-tanya
+        - Gyúrpuszta
+        - Kerekhegy
+        - Rebecsákhíd
+        - Tolvajlapos
+        - Gálmajor
+        - Kovácshányás
+        - Ótelek
+        - Kokasdi Dulo
+        - Papfolyodulo
+        city:
+          Budapest: Budapest
+          Debrecen: Debrecen
+          Miskolc: Miskolc
+          Szeged: Szeged
+          Pécs: Pecs
+          Gyor: Gyor
+          Nyíregyháza: Szabolcs-Szatmar-Bereg
+          Kecskemét: Bacs-Kiskun
+          Székesfehérvár: Fejer
+          Szombathely: Vas
         short_name: Hungary
         iso_3166_1_alpha2: HU
         official_name: Hungarian Republic
         demonym: Hungarian
-        tld: .hu
-      IS:
-        short_name: Iceland
-        iso_3166_1_alpha2: IS
-        official_name: Iceland
-        demonym: Icelander
-        tld: .is
-      IN:
-        short_name: India
-        iso_3166_1_alpha2: IN
-        official_name: Republic of India
-        demonym: Indian
-        tld: .in
-      ID:
+      :ID:
+        postal_code: ! '#####'
+        tld: .id
+        street_name:
+        - Pabuwaran Dua
+        - Hayawang
+        - Kwangsan Kidul
+        - Talang Saut
+        - Umbulan Pedada
+        - Reco
+        - Cipete
+        - Cikula
+        - Tjibadak 1
+        - Boeloeboeloe
+        city:
+          Jakarta: Jawa Barat
+          Surabaya: Jawa Timur
+          Medan: Sumatera Utara
+          Bandung: Jawa Barat
+          Bekasi: Jawa Barat
+          Tangerang: Jawa Barat
+          Makasar: Sulawesi Selatan
+          Semarang: Jawa Tengah
+          Palembang: Sumatera Selatan
+          Depok: Jawa Barat
         short_name: Indonesia
         iso_3166_1_alpha2: ID
         official_name: Republic of Indonesia
         demonym: Indonesian
-        tld: .id
-      IR:
-        short_name: Iran
-        iso_3166_1_alpha2: IR
-        official_name: Islamic Republic of Iran
-        demonym: Iranian
-        tld: .ir
-      IQ:
-        short_name: Iraq
-        iso_3166_1_alpha2: IQ
-        official_name: Republic of Iraq
-        demonym: Iraqi
-        tld: .iq
-      IE:
+      :IE:
+        tld: .ie
+        vat_number: IE#*#####?
+        street_name:
+        - Loughfad Hill
+        - Ballaghnatrillick Bridge
+        - Killeena
+        - Creggolympry
+        - Roadstown
+        - Rinbrack
+        - Kilbane
+        - Annaghneal Bridges
+        - Doonmanagh
+        - Peamount
+        city:
+          Dublin: Dublin
+          Cork: Cork
+          Limerick: Limerick
+          Galway: Galway
+          Waterford: Waterford
+          Drogheda: Louth
+          Dundalk: Louth
+          Bray: Wicklow
+          Swords: Dublin
+          Navan: Meath
         short_name: Ireland
         iso_3166_1_alpha2: IE
         official_name: Ireland
         demonym: Irish
-        tld: .ie
-      IL:
+      :IL:
+        postal_code: ! '#####'
+        tld: .il
+        street_name:
+        - Vardiya
+        - Masmiya Bet
+        - M'lia
+        - Beit-Raban
+        - Qiryat Tiv`on
+        - Ma`yan Zvi
+        - Hakiriah
+        - Sede Nahum
+        - Giv`ath Binyamin
+        - Giv`at Herzl
+        city:
+          Jerusalem: Yerushalayim
+          Tel Aviv-Yafo: Tel Aviv
+          Haifa: Hefa
+          Ashdod: HaMerkaz
+          Netanya: HaMerkaz
+          Bene Beraq: Tel Aviv
+          Bat Yam: Tel Aviv
+          Ramat Gan: Tel Aviv
+          Ashqelon: HaDarom
         short_name: Israel
         iso_3166_1_alpha2: IL
         official_name: State of Israel
         demonym: Israeli
-        tld: .il
-      IT:
+      :IN:
+        postal_code: ! '### ###'
+        tld: .in
+        street_name:
+        - Dulchaser
+        - Balli
+        - Ujni
+        - Chandupatla
+        - Bajaura
+        - Kasba Mhasrang
+        - Buchhiguda
+        - Kampa
+        - Tatcdhar
+        - Karwar
+        city:
+          Bombay: Maharashtra
+          Delhi: Delhi
+          New Delhi: Delhi
+          Bangalore: Karnataka
+          Calcutta: West Bengal
+          Madras: Tamil Nadu
+          Ahmadabad: Gujarat
+          Hyderabad: Andhra Pradesh
+          Pune: Maharashtra
+          Surat: Gujarat
+        short_name: India
+        iso_3166_1_alpha2: IN
+        official_name: Republic of India
+        demonym: Indian
+      :IQ:
+        postal_code: ! '#####'
+        tld: .iq
+        street_name:
+        - Gawras
+        - Al `Ata'
+        - Gowan
+        - Kani Kon
+        - Hamad `Arab
+        - Spidara
+        - Harash
+        - As Sayyid Hani as Sayyid Hadi
+        - Ridam Al Marzuk
+        - Piramawani
+        city:
+          Baghdad: Baghdad
+          Irbil: Arbil
+          Kirkuk: At Ta'mim
+          Dahuk: Diyala
+          Tikrit: Salah ad Din
+          Balad: Salah ad Din
+          Sinjar: Ninawa
+          Bayji: Salah ad Din
+          Hit: Al Anbar
+          Kifri: Diyala
+        short_name: Iraq
+        iso_3166_1_alpha2: IQ
+        official_name: Republic of Iraq
+        demonym: Iraqi
+      :IR:
+        postal_code: ! '#####'
+        tld: .ir
+        street_name:
+        - Kozundja
+        - Gol Qobagh
+        - Toros Ab
+        - Murd-e Mumen
+        - Aq Bolagh
+        - Jamali
+        - Dil
+        - Nowk Janub
+        - Gazanak
+        - Murghabad
+        city:
+          Tehran: Tehran
+          Mashhad: Khorasan
+          Esfahan: Esfahan
+          Karaj: Tehran
+          Tabriz: Azarbayjan-e Bakhtari
+          Shiraz: Fars
+          Qom: Markazi
+          Ahvaz: Khuzestan
+          Kermanshah: Bakhtaran
+          Orumiyeh: 
+        short_name: Iran
+        iso_3166_1_alpha2: IR
+        official_name: Islamic Republic of Iran
+        demonym: Iranian
+      :IS:
+        postal_code: ! '###'
+        tld: .is
+        street_name:
+        - Brekka
+        - Sæból
+        - Ásláksstaðir
+        - Lögmannshlíð
+        - Holt
+        - Reykjarnes
+        - Broðeyri
+        - Garður
+        - Skarð
+        - Þykkvabejarklaustur
+        city:
+          Reykjavík: Gullbringusysla
+          Kópavogur: Gullbringusysla
+          Akureyri: Eyjafjardarsysla
+          Keflavík: Gullbringusysla
+          Akranes: Borgarfjardarsysla
+          Selfoss: Arnessysla
+          Vestmannaeyjar: Rangarvallasysla
+          Grindavík: Gullbringusysla
+          Húsavík: Sudur-Tingeyjarsysla
+          Borgarnes: Myrasysla
+        short_name: Iceland
+        iso_3166_1_alpha2: IS
+        official_name: Iceland
+        demonym: Icelander
+      :IT:
+        postal_code: ! '#####'
+        tld: .it
+        vat_number: IT##########
+        street_name:
+        - Ollano
+        - Codognè
+        - Ursinis
+        - Gibbesi Vecchio
+        - Fiesse
+        - Terranova
+        - Tomba
+        - Revollella
+        - Ottavia
+        - Collelungo
+        city:
+          Rome: Lazio
+          Milan: Lombardia
+          Naples: Campania
+          Turin: Piemonte
+          Palermo: Sicilia
+          Genoa: Liguria
+          Bologna: Emilia-Romagna
+          Florence: Toscana
+          Catania: Sicilia
+          Bari: Puglia
         short_name: Italy
         iso_3166_1_alpha2: IT
         official_name: Italian Republic
         demonym: Italian
-        tld: .it
-      JM:
+      :JM:
+        tld: .jm
+        street_name:
+        - Hyde Hall
+        - Truro
+        - Aberdeen
+        - Zion Hill
+        - Pipers
+        - Palmers
+        - Puerto Bueno
+        - Bower Hall
+        - Mount Pleasant
+        - Rozelle House
+        city:
+          Kingston: Saint Andrew
+          Spanish Town: Saint Catherine
+          Portmore: Saint Catherine
+          Montego Bay: Saint James
+          Mandeville: Manchester
+          May Pen: Clarendon
+          Half Way Tree: Saint Andrew
+          Port Antonio: Portland
+          Ocho Rios: Saint Ann
+          Morant Bay: Saint Thomas
         short_name: Jamaica
         iso_3166_1_alpha2: JM
         official_name: Jamaica
         demonym: Jamaican
-        tld: .jm
-      JP:
-        short_name: Japan
-        iso_3166_1_alpha2: JP
-        official_name: Japan
-        demonym: Japanese
-        tld: .jp
-      JO:
+      :JO:
+        tld: .jo
+        street_name:
+        - Esh Shikara
+        - Halawa
+        - Zumaliya
+        - Adh Dhira`
+        - Jarima
+        - ! '`Al`al'
+        - Al `Amiriyah
+        - Al Mazzah
+        - ! '`Iraq el Amir'
+        - Khirbat al Mudari
+        city:
+          Irbid: Irbid
+          Madaba: Amman Governorate
+          Aydun: Irbid
+          Kuraymah: Irbid
+          Wadi Musa: Ma
+          Suf: Irbid
+          Hawwarah: Irbid
+          Judayta: Irbid
+          Jawa: Amman Governorate
+          Kafr Yuba: Irbid
         short_name: Jordan
         iso_3166_1_alpha2: JO
         official_name: Hashemite Kingdom of Jordan
         demonym: Jordanian
-        tld: .jo
-      KZ:
-        short_name: Kazakhstan
-        iso_3166_1_alpha2: KZ
-        official_name: Republic of Kazakhstan
-        demonym: Kazakh
-        tld: .kz
-      KE:
+      :JP:
+        postal_code: ! '###-####'
+        tld: .jp
+        street_name:
+        - Shimo-shizu
+        - Ogita
+        - Iwagase
+        - Katsukumi
+        - Shichibari
+        - Sumidamachi
+        - Gonome
+        - Soeta
+        - Shohana
+        - Takinomiya
+        city:
+          Tokyo: Tokyo
+          Yokohama: Kanagawa
+          Osaka: Osaka
+          Nagoya: Aichi
+          Sapporo: Hokkaido
+          Kobe: Hyogo
+          Kyoto: Kyoto
+          Fukuoka: Fukuoka
+          Kawasaki: Kanagawa
+          Hiroshima: Hiroshima
+        short_name: Japan
+        iso_3166_1_alpha2: JP
+        official_name: Japan
+        demonym: Japanese
+      :KE:
+        tld: .ke
+        street_name:
+        - Mitsolokani
+        - Kagongo
+        - Matuga
+        - Butsotso
+        - Gachika
+        - Chemosot
+        - Iyego
+        - Maiyuni
+        - Bulemia
+        - Kadzeweni
+        city:
+          Nairobi: Nairobi Area
+          Mombasa: Coast
+          Nakuru: Rift Valley
+          Eldoret: Rift Valley
+          Kisumu: Nyanza
+          Ruiru: Nairobi Area
+          Thika: Central
+          Kitale: Rift Valley
+          Malindi: Coast
+          Garissa: North-Eastern
         short_name: Kenya
         iso_3166_1_alpha2: KE
         official_name: Republic of Kenya
         demonym: Kenyan
-        tld: .ke
-      KI:
+      :KG:
+        tld: .kg
+        street_name:
+        - Tuya-Lyash
+        - Choku-Biy-Rabat
+        - Gerait
+        - Tokmok
+        - Bodzhoy
+        - Oktyabr'
+        - Bel'- Kyshtak
+        - Khalmion
+        - Shopokov
+        - Tegermensay
+        city:
+          Karakol: Ysyk-Kol
+          Tokmak: Chuy
+          Özgön: Osh
+          Talas: Talas
+          Kant: Bishkek
+          Toktogul: Jalal-Abad
+          Isfana: Osh
+          Kyzyl-Suu: Ysyk-Kol
+          At-Bashi: Naryn
+          Sülüktü: Osh
+        short_name: Kyrgyzstan
+        iso_3166_1_alpha2: KG
+        official_name: Kyrgyz Republic
+        demonym:
+        - Kyrgyz
+        - Kyrgyzstani
+      :KH:
+        postal_code: ! '#####'
+        tld: .kh
+        street_name:
+        - Phumi Sdach Nun
+        - B'El
+        - P'um Au Ta Pong
+        - Khum Kbal Kas Treng
+        - Bek Chan
+        - Phumi Krieng
+        - Vôtt Pun Phnum
+        - Phumi L'ak
+        - Phumi Chroy
+        city:
+          Phnum Pénh: Phnum Penh
+          Kampong Chhnang: Kampong Chhnang
+          Kâmpóng Cham: Kampong Cham
+          Pousat: Pursat
+          Ta Khmau: Kandal
+          Phumi Samraong: Kampong Cham
+          Svay Rieng: Svay Rieng
+          Sisophon: Batdambang
+          Kâmpôt: Kampot
+          Krâchéh: Kracheh
+        short_name: Cambodia
+        iso_3166_1_alpha2: KH
+        official_name: Kingdom of Cambodia
+        demonym: Khmer
+      :KI:
+        tld: .ki
+        street_name:
+        - Ukiangang
+        - Taratai
+        - Buakonikai
+        - Ritiati
+        - Tabwirao
+        - Tanaiang
+        - Nabeina
+        - Tabutoa
+        - Nabari
+        - Tewai
+        city:
+          Bairiki: 
+          Taburao: 
+          Buariki: 
+          Temaraia: 
+          Butaritari: 
+          Utiroa: 
+          Tabukiniberu: 
+          Rawannawi: 
+          Tabiauea: 
+          Rungata: 
         short_name: Kiribati
         iso_3166_1_alpha2: KI
         official_name: Republic of Kiribati
         demonym: I-Kiribati
-        tld: .ki
-      KP:
+      :KM:
+        tld: .km
+        street_name:
+        - Nunga
+        - Mondzaza-Djumbe
+        - Daché
+        - Bambao M'Sanga
+        - Dar Salam
+        - Jomani
+        - Mlalouankoudjou
+        - Dzoumogne
+        - Chanda
+        - Zoumougine
+        city:
+          Moroni: Grande Comore
+          Mutsamudu: Anjouan
+          Fomboni: Moheli
+          Domoni: Anjouan
+          Mitsamiouli: Grande Comore
+          Dzindri: Anjouan
+          Chindini: Grande Comore
+          Minoungouni: Grande Comore
+          Napa Beau: Grande Comore
+          Salapouani: Anjouan
+        short_name: Comoros
+        iso_3166_1_alpha2: KM
+        official_name: Union of the Comoros
+        demonym: Comorian
+      :KN:
+        tld: .kn
+        street_name:
+        - Romney
+        - Brick Kiln
+        - Newton Ground
+        - Webb's Ground
+        - Scarborough
+        - Hermitage
+        - Rawlins
+        - Cliftons
+        - Pembroke
+        - Craddocks
+        city:
+          Basseterre: Saint George Basseterre
+          Charlestown: Saint John Figtree
+          Sadlers: Saint John Capisterre
+          Middle Island: Saint Thomas Middle Island
+          Cayon: Saint Mary Cayon
+          Sandy Point: Saint Anne Sandy Point
+          Mansion: Christ Church Nichola Town
+          Dieppe Bay: Saint John Capisterre
+          Monkey Hill: Saint Peter Basseterre
+          Gingerland: Saint George Gingerland
+        short_name: Saint Kitts and Nevis
+        iso_3166_1_alpha2: KN
+        official_name: Federation of Saint Kitts and Nevis
+        demonym:
+        - Kittitian
+        - Kittian
+        - Nevisian
+      :KP:
+        tld: .kp
+        street_name:
+        - Wonumnodongjagu
+        - Heiibushiri
+        - Kajungni
+        - Nampyongcham
+        - Maramdong
+        - Chonginni
+        - Sinbangni
+        - Sangsanhyon
+        - Hwangjondong
+        - Tonghungdong
+        city:
+          Kunuichon: Hamgyong-namdo
+          Muksiri: P'yongan-bukto
+          Kijanggol: Hwanghae-namdo
+          Mupyongni: Chagang-do
+          Changgumni: Hwanghae-namdo
+          Ponsongnipyongjiri: P'yongan-namdo
+          Chonsongdong: Chagang-do
+          Kadori: P'yongan-bukto
+          Namtaektong: Kaesong-si
+          Taehungnihachon: Hamgyong-namdo
         short_name: North Korea
         iso_3166_1_alpha2: KP
         official_name: Democratic People’s Republic of Korea
         demonym: North Korean
-        tld: .kp
-      KR:
+      :KR:
+        postal_code: ! '###-###'
+        tld: .kr
+        street_name:
+        - Hongdong
+        - Hokikitsu
+        - Wonoyon
+        - Uam
+        - Kongsunwon
+        - Ichon
+        - Turisil
+        - Tochae
+        - Chogumni
+        - Tupo
+        city:
+          Seoul: Seoul-t'ukpyolsi
+          Taepyong: Ch'ungch'ong-namdo
+          Chunggilli: Cholla-bukto
+          Sosiilgu: Kyonggi-do
+          Shunan: Kyongsang-namdo
+          Chuktulli: Kyonggi-do
+          Choyang: Cholla-namdo
+          Sagijomgol: Ch'ungch'ong-namdo
+          Hamdong: Kyongsang-namdo
+          Daijiri: Kyongsang-namdo
         short_name: South Korea
         iso_3166_1_alpha2: KR
         official_name: Republic of Korea
         demonym: South Korean
-        tld: .kr
-      KW:
+      :KW:
+        tld: .kw
+        street_name:
+        - Ahmadi
+        - Al Badawiyah
+        - Warah
+        - Ar Raudha
+        - Al Qadisiyah
+        - An Nami
+        - Al Bida`
+        - Majiwah
+        - Finatus
+        - Juaidan
+        city:
+          Hawalli: Al Kuwayt
+          Doha: Al Jahra
+          Bayan: Al Kuwayt
+          Kayfan: Al Kuwayt
+          Al Biddah: Al Kuwayt
+          Shamiya: Al Kuwayt
+          Az Zaur: Al Kuwayt
+          Dasmah: Al Kuwayt
+          Kuwayt: Al Kuwayt
+          Rumaithiya: Al Kuwayt
         short_name: Kuwait
         iso_3166_1_alpha2: KW
         official_name: State of Kuwait
         demonym: Kuwaiti
-        tld: .kw
-      KG:
-        short_name: Kyrgyzstan
-        iso_3166_1_alpha2: KG
-        official_name: Kyrgyz Republic
-        demonym: [Kyrgyz, Kyrgyzstani]
-        tld: .kg
-      LA:
+      :KZ:
+        postal_code: ! '######'
+        tld: .kz
+        street_name:
+        - Aqsu
+        - Krasnyy Mayak
+        - Pregradnyy
+        - Yermentau
+        - Zhaylyauagach
+        - Novy Mikhailovski
+        - Mukashev
+        - I (Pervoye) Maya
+        - Kyzyltan
+        - Bairkum
+        city:
+          Almaty: Almaty City
+          Shymkent: South Kazakhstan
+          Taraz: Zhambyl
+          Astana: Astana
+          Pavlodar: Pavlodar
+          Öskemen: East Kazakhstan
+          Semey: East Kazakhstan
+          Aqtöbe: Aqtobe
+          Qostanay: Qostanay
+          Petropavl: North Kazakhstan
+        short_name: Kazakhstan
+        iso_3166_1_alpha2: KZ
+        official_name: Republic of Kazakhstan
+        demonym: Kazakh
+      :LA:
+        tld: .la
+        street_name:
+        - Ban Kham
+        - Ban Mokplai
+        - Ban Tha
+        - Ban Kèngping
+        - Ban Nou
+        - Ban Naxon
+        - Ban Kèngtao
+        - Ban Noy
+        - Ban Kioulai-Gnai
+        - Ban Mô
+        city:
+          Vientiane: Vientiane
+          Pakxé: Champasak
+          Savannakhét: 
+          Luang Prabang: Louangphrabang
+          Xam Nua: Houaphan
+          Pakxan: 
+          Champasak: Champasak
+          Phonhong: 
+          Saravan: 
+          Ban Nahin: Khammouan
         short_name: Laos
         iso_3166_1_alpha2: LA
         official_name: Lao People’s Democratic Republic
         demonym: Laotian
-        tld: .la
-      LV:
-        short_name: Latvia
-        iso_3166_1_alpha2: LV
-        official_name: Republic of Latvia
-        demonym: Latvian
-        tld: .lv
-      LB:
+      :LB:
+        tld: .lb
+        street_name:
+        - El Qraïmïyé
+        - Beït Youness
+        - Ain el Mreisse
+        - Haouch el Harimi
+        - Ghabun
+        - Borj Rahhâl
+        - Fsiqine et Ain Fchma
+        - Dmalsa
+        - Bkerzala
+        - Dahr el Blait
+        city:
+          Bayrut: Beyrouth
+          Beirut: Beyrouth
+          Sur: Al Janub
+          Juniyah: Mont-Liban
+          Jubayl: Mont-Liban
+          Riyaq: Beqaa
+          Jazzin: Al Janub
+          Jubb Jannin: Beqaa
+          Shanayh: Mont-Liban
+          En Nembri: Mont-Liban
         short_name: Lebanon
         iso_3166_1_alpha2: LB
         official_name: Republic of Lebanon
         demonym: Lebanese
-        tld: .lb
-      LS:
-        short_name: Lesotho
-        iso_3166_1_alpha2: LS
-        official_name: Kingdom of Lesotho
-        demonym: Mosotho
-        tld: .ls
-      LR:
-        short_name: Liberia
-        iso_3166_1_alpha2: LR
-        official_name: Republic of Liberia
-        demonym: Liberian
-        tld: .lr
-      LY:
-        short_name: Libya
-        iso_3166_1_alpha2: LY
-        official_name: Great Socialist People’s Libyan Arab Jamahiriya
-        demonym: Libyan
-        tld: .ly
-      LI:
+      :LC:
+        tld: .lc
+        street_name:
+        - Riviere Doree
+        - Fond Devaux
+        - Blanchard
+        - Girard
+        - Dame de Traversay
+        - Beauséjour
+        - Fond d'Or
+        - La Pointe
+        - Grand Anse
+        - Malgretoute
+        city:
+          Castries: Castries
+          Vieux Fort: Vieux-Fort
+          Micoud: Micoud
+          Dennery: Dennery
+          Soufrière: Soufriere
+          Gros Islet: Gros-Islet
+          Laborie: Laborie
+          Canaries: Anse-la-Raye
+          Cap Estate: Gros-Islet
+          Choiseul: Choiseul
+        short_name: Saint Lucia
+        iso_3166_1_alpha2: LC
+        demonym: Saint Lucian
+      :LI:
+        postal_code: ! '####'
+        tld: .li
+        street_name:
+        - Gaflei
+        - Masescha
+        - Nendeln
+        - Ebaholz
+        - Vorderschellenberg
+        - Wangerberg
+        - Mäls
+        - Mauern
+        - Mittlerer Schellenberg
+        - Silum
+        city:
+          Schaan: Schaan
+          Vaduz: Vaduz
+          Triesen: Triesen
+          Balzers: Balzers
+          Eschen: Eschen
+          Mauren: Mauren
+          Triesenberg: Triesenberg
+          Ruggell: Ruggell
+          Gamprin: Gamprin
+          Schellenberg: Schellenberg
         short_name: Liechtenstein
         iso_3166_1_alpha2: LI
         official_name: Principality of Liechtenstein
         demonym:
           male: Liechtensteiner
           female: Liechtensteinerin
-        tld: .li
-      LT:
+      :LK:
+        postal_code: ! '#####'
+        tld: .lk
+        street_name:
+        - Lenagala Ihala
+        - Peradenya
+        - Ratmale
+        - Kalalella
+        - Kosetadeniya
+        - Dunumadatawa
+        - Patirajje
+        - Mudakanda
+        - Etakehellanda
+        - Navithanveli
+        city:
+          Colombo: Western
+          Moratuwa: Western
+          Jaffna: Northern
+          Negombo: Western
+          Chavakachcheri: Northern
+          Kotte: Western
+          Kandy: Central
+          Trincomalee: Northern
+          Kalmunai: Northern
+          Galle: Southern
+        short_name: Sri Lanka
+        iso_3166_1_alpha2: LK
+        official_name: Democratic Socialist Republic of Sri Lanka
+        demonym: Sri Lankan
+      :LR:
+        tld: .lr
+        street_name:
+        - Sarah Town
+        - Sanguin
+        - Wumbeta
+        - Dingamu
+        - Mein Ninge
+        - Dinte
+        - Tom-Glay-Win
+        - Zontlop
+        - Quittatuaon
+        - Botata
+        city:
+          Monrovia: Montserrado
+          Gbarnga: Bong
+          Bensonville: Montserrado
+          Harper: Maryland
+          Buchanan: Grand Bassa
+          Zwedru: Grand Gedeh
+          Yekepa: Nimba
+          Ganta: Nimba
+          Robertsport: Grand Cape Mount
+          Tubmanburg: 
+        short_name: Liberia
+        iso_3166_1_alpha2: LR
+        official_name: Republic of Liberia
+        demonym: Liberian
+      :LS:
+        tld: .ls
+        street_name:
+        - Thokoa
+        - Morife Store
+        - Thaba Bosiu
+        - Mpite
+        - Mokema
+        - Neni
+        - Ledingwana's Cattle Post
+        - Hlotse Camp
+        - Mpiti
+        - Motanyane
+        city:
+          Maseru: Maseru
+          Hlotse: Leribe
+          Mafeteng: Mafeteng
+          Teyateyaneng: Berea
+          Quthing: Quthing
+          Mokhotlong: Mokhotlong
+          Thaba-Tseka: Thaba-Tseka
+          Phatso: Berea
+          Riet Vlei: Mohales Hoek
+          Jonathan: Leribe
+        short_name: Lesotho
+        iso_3166_1_alpha2: LS
+        official_name: Kingdom of Lesotho
+        demonym: Mosotho
+      :LT:
+        postal_code: ! '#####'
+        tld: .lt
+        vat_number:
+        - LT#########
+        - LT############
+        street_name:
+        - Pakarkle
+        - Grazhaychyay
+        - Pageleziai
+        - Naujasodis
+        - Laukagaliu
+        - Azuolynas
+        - Ropiske
+        - Kooden
+        - Kuksine
+        - Kaimelis
+        city:
+          Vilnius: Vilniaus Apskritis
+          Kaunas: Kauno Apskritis
+          Klaipeda: Klaipedos Apskritis
+          Siauliai: Siauliu Apskritis
+          Panevezys: Panevezio Apskritis
+          Alytus: Alytaus Apskritis
+          Marijampole: Marijampoles Apskritis
+          Mazeikiai: Telsiu Apskritis
+          Jonava: Kauno Apskritis
+          Utena: Utenos Apskritis
         short_name: Lithuania
         iso_3166_1_alpha2: LT
         official_name: Republic of Lithuania
         demonym: Lithuanian
-        tld: .lt
-      LU:
+      :LU:
+        postal_code: ! '####'
+        tld: .lu
+        vat_number: LU########
+        street_name:
+        - Loreshof
+        - Ringel
+        - Fisbour
+        - Marscheid
+        - Weiler-lès-Putscheid
+        - Bascharage Moulin
+        - Rost
+        - Woulkeschdall
+        - Kiesberg
+        - Horras
+        city:
+          Luxemburg: Luxembourg
+          Dudelange: Luxembourg
+          Schifflange: Luxembourg
+          Bettembourg: Luxembourg
+          Pétange: Luxembourg
+          Ettelbruck: Diekirch
+          Diekirch: Diekirch
+          Strassen: Luxembourg
+          Bertrange: Luxembourg
+          Belvaux: Luxembourg
         short_name: Luxembourg
         iso_3166_1_alpha2: LU
         official_name: Grand Duchy of Luxembourg
         demonym: Luxembourger
-        tld: .lu
-      MK:
-        short_name: Macedonia
-        iso_3166_1_alpha2: MK
-        official_name: Republic of Macedonia
-        demonym: Macedonian
-        tld: .mk
-      MG:
-        short_name: Madagascar
-        iso_3166_1_alpha2: MG
-        demonym: Malagasy
-        tld: .mg
-      MW:
-        short_name: Malawi
-        iso_3166_1_alpha2: MW
-        official_name: Republic of Malaŵi
-        demonym: Malawian
-        tld: .mw
-      MY:
-        short_name: Malaysia
-        iso_3166_1_alpha2: MY
-        official_name: Malaysia
-        demonym: Malaysian
-        tld: .my
-      MV:
-        short_name: Maldives
-        iso_3166_1_alpha2: MV
-        official_name: Republic of Maldives
-        demonym: Maldivian
-        tld: .mv
-      ML:
-        short_name: Mali
-        iso_3166_1_alpha2: ML
-        official_name: Republic of Mali
-        demonym: Malian
-        tld: .ml
-      MT:
-        short_name: Malta
-        iso_3166_1_alpha2: MT
-        official_name: Republic of Malta
-        demonym: Maltese
-        tld: .mt
-      MH:
-        short_name: Marshall Islands
-        iso_3166_1_alpha2: MH
-        demonym: Marshallese
-        tld: .mh
-      MR:
-        short_name: Mauritania
-        iso_3166_1_alpha2: MR
-        official_name: Islamic Republic of Mauritania
-        demonym: Mauritanian
-        tld: .mr
-      MU:
-        short_name: Mauritius
-        iso_3166_1_alpha2: MU
-        official_name: Republic of Mauritius
-        demonym: Mauritian
-        tld: .mu
-      MX:
-        short_name: Mexico
-        iso_3166_1_alpha2: MX
-        official_name: United Mexican States
-        demonym: Mexican
-        tld: .mx
-      FM:
-        short_name: Federated States of Micronesia
-        sortable_name: Micronesia, Federated States of
-        iso_3166_1_alpha2: FM
-        official_name: Federated States of Micronesia
-        demonym: Micronesian
-        tld: .fm
-      MD:
-        short_name: Moldova
-        iso_3166_1_alpha2: MD
-        official_name: Republic of Moldova
-        demonym: [Moldovan, Moldavian]
-        tld: .md
-      MC:
-        short_name: Monaco
-        iso_3166_1_alpha2: MC
-        official_name: Principality of Monaco
-        demonym: Monégasque
-        tld: .mc
-      MN:
-        short_name: Mongolia
-        iso_3166_1_alpha2: MN
-        official_name: Mongolia
-        demonym: Mongolian
-        tld: .mn
-      ME:
-        short_name: Montenegro
-        iso_3166_1_alpha2: ME
-        official_name: Montenegro
-        demonym: Montenegrin
-        tld: .me
-      MA:
+      :LV:
+        postal_code: LV-####
+        tld: .lv
+        vat_number: LV###########
+        street_name:
+        - Myza Beya
+        - Lemskalni
+        - Vayvari
+        - Sudmalkalni
+        - Myza Lugazhi
+        - Nekins
+        - Murovka
+        - Yauntsiyems
+        - Nauksenu Muiza
+        - Kotolniki
+        city:
+          Riga: Riga
+          Daugavpils: Daugavpils
+          Liepaja: Liepaja
+          Jelgava: Jelgavas
+          Jurmala: Riga
+          Ventspils: Ventspils
+          Rezekne: Rezekne
+          Valmiera: Valmieras
+          Ogre: Ogres
+          Tukums: Tukuma
+        short_name: Latvia
+        iso_3166_1_alpha2: LV
+        official_name: Republic of Latvia
+        demonym: Latvian
+      :LY:
+        tld: .ly
+        street_name:
+        - Qaryat Qasr al `Ajuz
+        - Anay
+        - Gasr Ahmed
+        - Fuehat
+        - Al Qaryat al Gharbiyah
+        - El-Glil
+        - Tuwiwi
+        - Khadra'
+        - El-Gheràn
+        - El Guàsem
+        city:
+          Tripoli: Tarabulus
+          Benghazi: Banghazi
+          Misratah: Misratah
+          Tarhunah: Tarhunah
+          Zuwarah: An Nuqat al Khams
+          Ajdabiya: Ajdabiya
+          Surt: Surt
+          Sabha: Sabha
+          Tubruq: Tubruq
+          Sabratah: An Nuqat al Khams
+        short_name: Libya
+        iso_3166_1_alpha2: LY
+        official_name: Great Socialist People’s Libyan Arab Jamahiriya
+        demonym: Libyan
+      :MA:
+        postal_code: ! '#####'
+        tld: .ma
+        street_name:
+        - Bou Ifrane
+        - Dhar
+        - Taoussit
+        - Souk Tedrara
+        - Oulad Sassi
+        - Hajar
+        - Ville Nouvelle
+        - Igourar el Gdrour
+        - Ksar Sahli
+        - Aït Amer Ou Abid
+        city:
+          Casablanca: 
+          Rabat: 
+          Fez: 
+          Marrakesh: 
+          Tangier: 
+          Agadir: 
+          Kenitra: 
+          Tétouan: 
+          Asfi: 
+          Nador: 
         short_name: Morocco
         iso_3166_1_alpha2: MA
         official_name: Kingdom of Morocco
         demonym: Moroccan
-        tld: .ma
-      MZ:
+      :MC:
+        postal_code: 980##
+        tld: .mc
+        street_name:
+        - Condamine
+        - Moneghetti
+        - Monaco
+        - Monte-Carlo
+        city:
+          La Condamine: 
+          Fontvieille: 
+          Monaco-Ville: 
+          Condamine: 
+          Monaco: 
+          Monte-Carlo: 
+          Moneghetti: 
+        short_name: Monaco
+        iso_3166_1_alpha2: MC
+        official_name: Principality of Monaco
+        demonym: Monégasque
+      :MD:
+        postal_code: MD####
+        tld: .md
+        street_name:
+        - Novyye Tanatary
+        - Obrezha Veke
+        - Romanovca
+        - Kelfa
+        - Ciuciuleni
+        - Bogdaneni
+        - (( Parushovka ))
+        - Mokraki
+        - Kholerkani
+        - Novyye Kaushany
+        city:
+          Chisinau: 
+          Balti: 
+          Tighina: 
+          Rabnita: 
+          Orhei: 
+          Cahul: 
+          Ungheni: 
+          Soroca: 
+          Comrat: Gagauzia
+          Rascani: 
+        short_name: Moldova
+        iso_3166_1_alpha2: MD
+        official_name: Republic of Moldova
+        demonym:
+        - Moldovan
+        - Moldavian
+      :ME:
+        postal_code: ! '#####'
+        tld: .me
+        street_name:
+        - Vrsajke
+        - Prenkaj
+        - Dovista
+        - Bogaji
+        - Donji Zagradac
+        - Azani
+        - Licine
+        - Trebljevine
+        - Sipanje
+        - Drenovstica
+        city:
+          Podgorica: 
+          Niksic: 
+          Pljevlja: 
+          Ulcinj: 
+          Pecurici: 
+          Gigcvici: 
+          Zadurasevac: 
+          Strojtanice: 
+          Ravno: 
+          Kljun: 
+        short_name: Montenegro
+        iso_3166_1_alpha2: ME
+        official_name: Montenegro
+        demonym: Montenegrin
+      :MG:
+        tld: .mg
+        street_name:
+        - Ankalitrandraka Ouest
+        - Ampihadranaby
+        - Ambohimahasoa
+        - Ambaiboa
+        - Bego
+        - Mahadera
+        - Amboanjo
+        - Sahabe
+        - Ambohibe
+        - Sitampiki
+        city:
+          Antananarivo: Antananarivo
+          Toamasina: Toamasina
+          Antsirabe: Antananarivo
+          Fianarantsoa: Fianarantsoa
+          Mahajanga: Mahajanga
+          Toliary: Toliara
+          Antanifotsy: Antananarivo
+          Ambovombe: Toliara
+          Amparafaravola: Toamasina
+          Taolanaro: Toliara
+        short_name: Madagascar
+        iso_3166_1_alpha2: MG
+        demonym: Malagasy
+      :MH:
+        tld: .mh
+        street_name:
+        - Jabwor
+        - Jabooru
+        - Ine
+        city:
+          Jabor: 
+          Jaboru: 
+          Majuro: 
+          Jabooru: 
+          Jabwor: 
+          Ine: 
+        short_name: Marshall Islands
+        iso_3166_1_alpha2: MH
+        demonym: Marshallese
+      :MK:
+        tld: .mk
+        street_name:
+        - Lipec
+        - Govarljevo
+        - Beljakovci
+        - Toplica
+        - Pribilci
+        - Batinc
+        - Beljakovci Mahala
+        - Rajcane
+        - Veljanovci
+        - Mjelnjicanje e Poshtëme
+        city:
+          Skopje: Karpos
+          Kumanovo: Kumanovo
+          Bitola: Bitola
+          Prilep: Prilep
+          Tetovo: Tetovo
+          Veles: Veles
+          Ohrid: Ohrid
+          Gostivar: Gostivar
+          Stip: Stip
+          Strumica: Strumica
+        short_name: Macedonia
+        iso_3166_1_alpha2: MK
+        official_name: Republic of Macedonia
+        demonym: Macedonian
+      :ML:
+        tld: .ml
+        street_name:
+        - Ha
+        - Ségoula
+        - Mousawéli
+        - Ntogon
+        - Kotienebugu
+        - Tougankoura
+        - Balankoumakana
+        - Mouroudia
+        - Makandiambougouni
+        - Nyinia
+        city:
+          Bamako: Bamako
+          Sikasso: Sikasso
+          Mopti: Mopti
+          Koutiala: Sikasso
+          Kayes: Kayes
+          Ségou: Segou
+          Nioro: Kayes
+          Markala: Segou
+          Kolokani: Koulikoro
+          Kati: Koulikoro
+        short_name: Mali
+        iso_3166_1_alpha2: ML
+        official_name: Republic of Mali
+        demonym: Malian
+      :MM:
+        tld: .mm
+        street_name:
+        - Kada
+        - Nattsein
+        - Kawdaw
+        - Paungbin
+        - Yetagon
+        - Wan Namkawk
+        - Salawng-hkayang
+        - Kawta
+        - Taunggyigyaw
+        - Naungwo
+        city:
+          Rangoon: Yangon
+          Mandalay: Mandalay
+          Mawlamyine: Mon State
+          Bago: 
+          Pathein: Irrawaddy
+          Monywa: Sagaing
+          Akyab: Rakhine State
+          Meiktila: Mandalay
+          Mergui: Tenasserim
+          Taunggyi: Shan State
+        short_name: Burma
+        iso_3166_1_alpha2: MM
+        official_name: Union of Myanmar
+        demonym:
+        - Burmese
+        - Myanma
+      :MN:
+        tld: .mn
+        street_name:
+        - Burgaasatayn Hiid
+        - Norboiin Salbari Horshoo
+        - Bindiryaa
+        - Naman Han Hüryee
+        - Mani khid
+        - Degchöyn chzhisa khid
+        - Hunta Suma
+        - Dara ekheyn chzhisa dugang
+        - Tögörig nuur
+        - Na-lai-ha
+        city:
+          Ulaanbaatar: Ulaanbaatar
+          Erdenet: Orhon
+          Darhan: Hentiy
+          Ulaangom: Uvs
+          Hovd: Ovorhangay
+          Mörön: Hovsgol
+          Sühbaatar: Selenge
+          Bulgan: Bulgan
+          Baruun-Urt: Suhbaatar
+          Mandalgovi: Dundgovi
+        short_name: Mongolia
+        iso_3166_1_alpha2: MN
+        official_name: Mongolia
+        demonym: Mongolian
+      :MO:
+        postal_code: 
+        street_name:
+        - Cheoc Ca Chün
+        - Lin-chia-ts'un
+        - Hac Sá
+        - Lai Chi Van
+        - Macao
+        - Tcheok-Ka-Tchin
+        - Cidade de Macau
+        - Vila da Taipa
+        - Macau
+        city:
+          Coloane: Ilhas
+          Ao-men: Ilhas
+          Hei-sha: Ilhas
+          Tcheok-La-Tchin: Ilhas
+          Ts'ao-chia-ts'un: Ilhas
+          Lu-huan: Ilhas
+          Taipa: Ilhas
+          Lui-Tchi-Van: Ilhas
+          Hac-Tsa: Ilhas
+          Macao: Ilhas
+      :MR:
+        tld: .mr
+        street_name:
+        - Elemene Srhîr
+        - Amchotone
+        - Tiali
+        - Tichitt
+        - Nimjad
+        - Liradj
+        - Ndrénawou
+        - Tiékane
+        - Lareïch
+        - Godioval
+        city:
+          Nouakchott: Trarza
+          Nouâdhibou: Dakhlet Nouadhibou
+          Atâr: Adrar
+          Bababé: Brakna
+          Maghama: Gorgol
+          Djebaba Level: Gorgol
+          Fanaye Niakouar: Trarza
+          Lilia: Gorgol
+          Oudelemguil: Gorgol
+          Zegueha: Gorgol
+        short_name: Mauritania
+        iso_3166_1_alpha2: MR
+        official_name: Islamic Republic of Mauritania
+        demonym: Mauritanian
+      :MT:
+        postal_code: ???####
+        tld: .mt
+        vat_number: MT########
+        street_name:
+        - ! '''Emieri'
+        - Rahal Jedid
+        - Ta L-Abatia
+        - Casal Balzan
+        - San Paul à Mare
+        - Casal Micabiba
+        - Ix-Xaghra
+        - L-GÄ§asri
+        - Imjar
+        - Il-Qat-ara
+        city:
+          Birkirkara: 
+          Qormi: 
+          Mosta: 
+          Zabbar: 
+          Rabat: 
+          San Gwann: 
+          Fgura: 
+          Zejtun: 
+          Sliema: 
+          Zebbug: 
+        short_name: Malta
+        iso_3166_1_alpha2: MT
+        official_name: Republic of Malta
+        demonym: Maltese
+      :MU:
+        tld: .mu
+        street_name:
+        - Centre of Flacq
+        - Petite Cabane
+        - Port Sud-Est
+        - D'Epinay
+        - Bois d'Oiseaux
+        - Carreau Lalo
+        - Belle Vue Pilot
+        - Vuillemain
+        - Bell Village Station
+        - Circonstance
+        city:
+          Port Louis: Port Louis
+          Curepipe: Plaines Wilhems
+          Quatre Bornes: Plaines Wilhems
+          Triolet: Pamplemousses
+          Goodlands: Riviere du Rempart
+          Bel Air: Flacq
+          Mahébourg: Grand Port
+          Saint Pierre: Moka
+          Le Hochet: Pamplemousses
+          Baie du Tombeau: Pamplemousses
+        short_name: Mauritius
+        iso_3166_1_alpha2: MU
+        official_name: Republic of Mauritius
+        demonym: Mauritian
+      :MV:
+        tld: .mv
+        street_name:
+        - Farukolhufunadhoo
+        - Magoodhoo
+        - Hitaddu
+        - Hithadhoo
+        - Gamu
+        - Midu
+        - Nolhivaranfaru
+        - U'ngoofaaru
+        - Mula
+        - Felidhoo
+        city:
+          Male: Maale
+          Hithadhoo: Seenu
+          Kulhudhuffushi: 
+          Thinadhoo: 
+          Naifaru: 
+          Dhidhdhoo: 
+          Eydhafushi: 
+          Viligili: 
+          Mahibadhoo: Maale
+          Manadhoo: 
+        short_name: Maldives
+        iso_3166_1_alpha2: MV
+        official_name: Republic of Maldives
+        demonym: Maldivian
+      :MW:
+        tld: .mw
+        street_name:
+        - Nyirongo
+        - Chavara
+        - Ndawambe
+        - Makungula
+        - Tondoloza
+        - Chibwana Mgemezulu
+        - Gandali
+        - Chatewa
+        - Kambanje
+        - Kaphilijonjo
+        city:
+          Lilongwe: Lilongwe
+          Blantyre: Blantyre
+          Zomba: Zomba
+          Kasungu: Kasungu
+          Mangochi: Mangochi
+          Karonga: Karonga
+          Salima: Salima
+          Nkhotakota: Nkhotakota
+          Liwonde: Balaka
+          Nsanje: Nsanje
+        short_name: Malawi
+        iso_3166_1_alpha2: MW
+        official_name: Republic of Malaŵi
+        demonym: Malawian
+      :MX:
+        postal_code: ! '#####'
+        tld: .mx
+        vat_number: ! 'MX#### ###### ### '
+        street_name:
+        - Colonia Allende
+        - El Centro
+        - Naranjillo
+        - Barrio Chihuahuita
+        - San José de Ibs Andrade
+        - Banquete
+        - Las Piedras
+        - Rancho Casa Colorada
+        - Santa Isabel Viejo
+        - Mamey de Abajo
+        city:
+          Mexico: Distrito Federal
+          Ecatepec: Mexico
+          Guadalajara: Jalisco
+          Juarez: Mexico
+          Puebla: Puebla
+          Tijuana: Baja California
+          Nezahualcóyotl: Mexico
+          Monterrey: Nuevo Leon
+          León: Guanajuato
+          Zapopan: Jalisco
+        short_name: Mexico
+        iso_3166_1_alpha2: MX
+        official_name: United Mexican States
+        demonym: Mexican
+      :MY:
+        postal_code: ! '#####'
+        tld: .my
+        street_name:
+        - Kampong Serdai
+        - Kampong Alor Pulai
+        - Kampong Lipat Kajang
+        - Kampong Malaka
+        - Kampong Kijang
+        - Kampong Padang Setul
+        - Ban Foo
+        - Kampong Temung Tembawang
+        - Simpang Tiga Gaal
+        - Kampong Tanah Merah
+        city:
+          Kuala Lumpur: Kuala Lumpur
+          Klang: Selangor
+          Johor Bahru: Johor
+          Ipoh: Perak
+          Kuching: Sarawak
+          Petaling Jaya: Kuala Lumpur
+          Shah Alam: Selangor
+          Kota Kinabalu: Sabah
+          Sandakan: Sabah
+          Seremban: Negeri Sembilan
+        short_name: Malaysia
+        iso_3166_1_alpha2: MY
+        official_name: Malaysia
+        demonym: Malaysian
+      :MZ:
+        tld: .mz
+        street_name:
+        - Ucharrene
+        - Tego
+        - Chefe Alberto
+        - M. Mafacale
+        - Tambica
+        - Marruri
+        - Saquene
+        - Pingo
+        - B. Nuno
+        - Régulo Corromana
+        city:
+          Maputo: Maputo
+          Matola: Maputo
+          Beira: Sofala
+          Nampula: Nampula
+          Chimoio: Manica
+          Nacala: Nampula
+          Quelimane: Zambezia
+          Tete: Tete
+          Xai-Xai: Gaza
+          Maxixe: Inhambane
         short_name: Mozambique
         iso_3166_1_alpha2: MZ
         official_name: Republic of Mozambique
         demonym: Mozambican
-        tld: .mz
-      NA:
+      :NA:
+        tld: .na
+        street_name:
+        - Ovanduvongwe
+        - Orangemund
+        - Ompandakani
+        - Okavandje
+        - Kamanjab
+        - Masari
+        - Okahitua
+        - Okaseta
+        - Uukwiyu
+        - Mazua
+        city:
+          Windhoek: Windhoek
+          Rundu: Okavango
+          Walvis Bay: Erongo
+          Oshakati: Oshana
+          Swakopmund: Erongo
+          Katima Mulilo: Caprivi
+          Grootfontein: Otjozondjupa
+          Rehoboth: Hardap
+          Otjiwarongo: Otjozondjupa
+          Okahandja: Otjozondjupa
         short_name: Namibia
         iso_3166_1_alpha2: NA
         official_name: Republic of Namibia
         demonym: Namibian
-        tld: .na
-      NR:
-        short_name: Nauru
-        iso_3166_1_alpha2: NR
-        official_name: Republic of Nauru
-        demonym: Nauruan
-        tld: .nr
-      NP:
-        short_name: Nepal
-        iso_3166_1_alpha2: NP
-        demonym: Nepali
-        tld: .np
-      NL:
-        short_name: Netherlands
-        iso_3166_1_alpha2: NL
-        official_name: Kingdom of the Netherlands
-        tld: .nl
-      NZ:
-        short_name: New Zealand
-        iso_3166_1_alpha2: NZ
-        official_name: New Zealand
-        demonym: New Zealander
-        tld: .nz
-      NI:
-        short_name: Nicaragua
-        iso_3166_1_alpha2: NI
-        official_name: Republic of Nicaragua
-        demonym: Nicaraguan
-        tld: .ni
-      NE:
+      :NE:
+        tld: .ne
+        street_name:
+        - Tabani
+        - Kaiwatan
+        - Margou
+        - Karobango
+        - Bosia
+        - Guidan Yérima
+        - Gofo
+        - May Gochi
+        - Madé Kwara
+        - Dyowol
+        city:
+          Niamey: Niamey
+          Zinder: Zinder
+          Maradi: Maradi
+          Agadez: Agadez
+          Arlit: Agadez
+          Tahoua: Tahoua
+          Dosso: Dosso
+          Tessaoua: Maradi
+          Gaya: Dosso
         short_name: Niger
         iso_3166_1_alpha2: NE
         official_name: Republic of Niger
         demonym: Nigerien
-        tld: .ne
-      NG:
+      :NG:
+        tld: .ng
+        street_name:
+        - Giwa
+        - Emiwoziri
+        - Galagam
+        - Madoro
+        - Gwaddabi
+        - Ikwa
+        - Buresidna
+        - Gantsa
+        - Emeri
+        - Wumbi
+        city:
+          Lagos: Lagos
+          Kano: Kano
+          Ibadan: Oyo
+          Kaduna: Kaduna
+          Port Harcourt: Rivers
+          Bénin: Edo
+          Maiduguri: Borno
+          Zaria: Kaduna
+          Aba: 
+          Jos: Plateau
         short_name: Nigeria
         iso_3166_1_alpha2: NG
         official_name: Federal Republic of Nigeria
         demonym: Nigerian
-        tld: .ng
-      NO:
+      :NI:
+        postal_code: ! '######'
+        tld: .ni
+        street_name:
+        - San Juancito
+        - Sandy Bay Sirpi
+        - El Porvenir
+        - Asososca
+        - Las Canoas
+        - Santo Domingo
+        - Makantaka
+        - Fátima
+        - Rancherías
+        - Las Cruces
+        city:
+          Managua: Managua
+          León: Leon
+          Chinandega: Chinandega
+          Masaya: Masaya
+          Granada: Granada
+          Estelí: Esteli
+          Tipitapa: Managua
+          Matagalpa: Matagalpa
+          Bluefields: Region Autonoma Atlantico Sur
+          Juigalpa: Chontales
+        short_name: Nicaragua
+        iso_3166_1_alpha2: NI
+        official_name: Republic of Nicaragua
+        demonym: Nicaraguan
+      :NL:
+        postal_code: ! '#### ??'
+        tld: .nl
+        vat_number: NL#########?##
+        street_name:
+        - Krispijn
+        - Stuivezand
+        - Uithuizermeedum
+        - Sint Janskerke
+        - Zedde
+        - Euvelwegen
+        - Amerika
+        - Harreveld
+        - Klef
+        - Borkel
+        city:
+          Amsterdam: Noord-Holland
+          Rotterdam: Zuid-Holland
+          The Hague: Zuid-Holland
+          Utrecht: Utrecht
+          Eindhoven: Noord-Brabant
+          Tilburg: Noord-Brabant
+          Almere: Flevoland
+          Groningen: Groningen
+          Breda: Noord-Brabant
+          Nijmegen: Gelderland
+        short_name: Netherlands
+        iso_3166_1_alpha2: NL
+        official_name: Kingdom of the Netherlands
+      :NO:
+        postal_code: ! '####'
+        tld: .no
+        vat_number: NO#########
+        street_name:
+        - Morvik
+        - Ytre Åseröd
+        - Gluggvasshaug
+        - Sæter
+        - Höstland
+        - Oppegaard
+        - Kvalsund
+        - Jømna
+        - Nes
+        - Eide
+        city:
+          Oslo: Oslo
+          Bergen: Hordaland
+          Stavanger: Rogaland
+          Trondheim: Sor-Trondelag
+          Drammen: Buskerud
+          Kristiansand: Vest-Agder
+          Tromsø: Troms
+          Bodø: Nordland
+          Larvik: Vestfold
+          Halden: Ostfold
         short_name: Norway
-        iso_3166_1_alpha2: NO
+        iso_3166_1_alpha2: 'NO'
         official_name: Kingdom of Norway
         demonym: Norwegian
-        tld: .no
-      OM:
+      :NP:
+        tld: .np
+        street_name:
+        - Panighat
+        - Chisapani Gadhi
+        - Hetauda Bazar
+        - Nuwakot
+        - Nuo
+        - Sangu
+        - Ghachak
+        - Bhaise
+        - Kadarbana
+        - Jomosom
+        city:
+          Kathmandu: 
+          Pokhara: 
+          Lalitpur: 
+          Biratnagar: 
+          Birganj: 
+          Dharan: 
+          Bharatpur: 
+          Janakpur: 
+          Dhangadhi: 
+          Butwal: 
+        short_name: Nepal
+        iso_3166_1_alpha2: NP
+        demonym: Nepali
+      :NR:
+        tld: .nr
+        street_name:
+        - Ijuh
+        - Enniberri
+        - Ronave
+        - Mueoen
+        - Anibare
+        - Ijuw
+        - Ijub
+        city:
+          Waboe: 
+          Anabar: 
+          Uaboe: 
+          Anna: 
+          Yangor: 
+          Aneber: 
+          Anibare: 
+          Ronave: 
+          Ijub: 
+          Ijuw: 
+        short_name: Nauru
+        iso_3166_1_alpha2: NR
+        official_name: Republic of Nauru
+        demonym: Nauruan
+      :NZ:
+        postal_code: ! '####'
+        tld: .nz
+        street_name:
+        - Waitetuna
+        - Robinsons Bay
+        - Hawea Flat
+        - Kelburn
+        - Clifton
+        - Aparima
+        - Kaikora
+        - Taipuha
+        - Waipaoa
+        - Paparoa
+        city:
+          Auckland: 
+          Christchurch: 
+          North Shore: 
+          Wellington: 
+          Waitakere: 
+          Hamilton: 
+          Dunedin: 
+          Tauranga: 
+          Lower Hutt: 
+          Palmerston North: 
+        short_name: New Zealand
+        iso_3166_1_alpha2: NZ
+        official_name: New Zealand
+        demonym: New Zealander
+      :OM:
+        tld: .om
+        street_name:
+        - Sharbatat
+        - Fanjah
+        - Firq
+        - Saydah
+        - Al Khan
+        - Dahiyah
+        - Muhya
+        - Murri
+        - Musaydirah
+        - Al Malqamah
+        city:
+          Salalah: Zufar
+          Nizwá: Al Batinah
+          Ruwi: Masqat
+          Sur: Ash Sharqiyah
+          Muscat: Masqat
+          Qurayyat: Masqat
+          Ibra: Ash Sharqiyah
+          Saraima: Ash Sharqiyah
+          ! '`Ayn al Mahab': Al Batinah
+          Hasik: Zufar
         short_name: Oman
         iso_3166_1_alpha2: OM
         official_name: Sultanate of Oman
         demonym: Omani
-        tld: .om
-      PK:
-        short_name: Pakistan
-        iso_3166_1_alpha2: PK
-        official_name: Islamic Republic of Pakistan
-        demonym: Pakistani
-        tld: .pk
-      PW:
-        short_name: Palau
-        iso_3166_1_alpha2: PW
-        official_name: Republic of Palau
-        demonym: Palauan
-        tld: .pw
-      PA:
+      :PA:
+        postal_code: ! '######'
+        tld: .pa
+        street_name:
+        - El Achotal
+        - Quebrada Corrales
+        - Cerro Nance
+        - Gorgona
+        - Cuatro Calles
+        - Cartagenita
+        - Perico
+        - Trincheras
+        - Pozos de Salud
+        - El Cigual
+        city:
+          Panamá: Panama
+          San Miguelito: Panama
+          Tocumen: Panama
+          David: Chiriqui
+          Arraiján: Panama
+          Colón: Colon
+          Las Cumbres: Panama
+          La Chorrera: Panama
+          Pacora: Panama
+          Santiago: Veraguas
         short_name: Panama
         iso_3166_1_alpha2: PA
         official_name: Republic of Panama
         demonym: Panamanian
-        tld: .pa
-      PG:
-        short_name: Papua New Guinea
-        iso_3166_1_alpha2: PG
-        official_name: Independent State of Papua New Guinea
-        demonym: Papua New Guinean
-        tld: .pg
-      PY:
-        short_name: Paraguay
-        iso_3166_1_alpha2: PY
-        official_name: Republic of Paraguay
-        demonym: Paraguayan
-        tld: .py
-      PE:
+      :PE:
+        postal_code: 
+        tld: .pe
+        street_name:
+        - Verde Puquio
+        - Llicsa Grande de Zapotal
+        - Hacienda Chongos
+        - Pertendes
+        - Ullurpampa
+        - Pusicuchini
+        - Poncoy
+        - Pallamayo
+        - Pauna Hacienda
+        - Espachín Alto Hacienda
+        city:
+          Lima: Lima
+          Arequipa: Arequipa
+          Trujillo: La Libertad
+          Chiclayo: Lambayeque
+          Iquitos: Loreto
+          Huancayo: Junin
+          Piura: Piura
+          Chimbote: Ancash
+          Cusco: Cusco
+          Pucallpa: Ucayali
         short_name: Peru
         iso_3166_1_alpha2: PE
         official_name: Republic of Peru
         demonym: Peruvian
-        tld: .pe
-      PH:
+      :PG:
+        tld: .pg
+        street_name:
+        - But
+        - Selmitu
+        - Gopia
+        - Irana
+        - Dirikomana
+        - Maliu
+        - Elena
+        - Zengaren
+        - Digutu
+        - Aiasa
+        city:
+          Port Moresby: National Capital
+          Lae: Morobe
+          Arawa: North Solomons
+          Mount Hagen: Western Highlands
+          Popondetta: Northern
+          Madang: Madang
+          Kokopo: East New Britain
+          Mendi: Southern Highlands
+          Kimbe: West New Britain
+          Goroka: Eastern Highlands
+        short_name: Papua New Guinea
+        iso_3166_1_alpha2: PG
+        official_name: Independent State of Papua New Guinea
+        demonym: Papua New Guinean
+      :PH:
+        postal_code: ! '####'
+        tld: .ph
+        vat_number: ! 'PH### ### ### ###'
+        street_name:
+        - Ambuetel
+        - Lawigan
+        - Anajao
+        - Lipa
+        - Fuga Island
+        - Carcooy
+        - Carirohan
+        - Marayo
+        - Quinatuyan
+        - Lang-ayang
+        city:
+          Manila: Manila
+          Davao: Davao City
+          Cebu: Cebu City
+          Antipolo: Rizal
+          Zamboanga: Zamboanga
+          Bacolod: Bacolod
+          Cagayan de Oro: Cagayan de Oro
+          Dasmariñas: Cavite
+          Dadiangas: General Santos
+          Iloilo: Iloilo City
         short_name: Philippines
         iso_3166_1_alpha2: PH
         official_name: Republic of the Philippines
         demonym:
           male: Filipino
           female: Filipina
-        tld: .ph
-      PL:
+      :PK:
+        postal_code: ! '######'
+        tld: .pk
+        street_name:
+        - Silwan
+        - Mahasar
+        - Haveli Haji Muhammad
+        - Dildar Garhi
+        - Shaie jo Goth
+        - Goth Ashraf Pirzada
+        - Saiyid Ajan Shah
+        - Serai
+        - Waro Lakhiar
+        - Kuankh
+        city:
+          Karachi: Sindh
+          Lahore: Punjab
+          Faisalabad: Punjab
+          Rawalpindi: Punjab
+          Multan: Punjab
+          Hyderabad: Sindh
+          Gujranwala: Punjab
+          Peshawar: North-West Frontier
+          Quetta: Balochistan
+          Bahawalpur: Punjab
+        short_name: Pakistan
+        iso_3166_1_alpha2: PK
+        official_name: Islamic Republic of Pakistan
+        demonym: Pakistani
+      :PL:
+        postal_code: ! '##-###'
+        tld: .pl
+        vat_number: PL##########
+        street_name:
+        - Bilcza
+        - Klokowice
+        - Glockstein
+        - Pogorzele
+        - Borchów
+        - Losiewice
+        - Swiecajny
+        - Czarze
+        - Podlechy
+        - Gocty
+        city:
+          Warsaw: 
+          Cracow: Malopolskie
+          Poznan: Wielkopolskie
+          Gdansk: Pomorskie
+          Szczecin: Zachodniopomorskie
+          Bydgoszcz: Kujawsko-Pomorskie
+          Lublin: Lubelskie
+          Katowice: Slaskie
+          Gdynia: 
+          Czestochowa: 
         short_name: Poland
         iso_3166_1_alpha2: PL
         official_name: Republic of Poland
-        demonym: [Pole, Polish]
-        tld: .pl
-      PT:
+        demonym:
+        - Pole
+        - Polish
+      :PT:
+        postal_code:
+        - ! '#### ###'
+        - ! '####-###'
+        tld: .pt
+        vat_number: PT#########
+        street_name:
+        - Lomba Chã
+        - Senhor dos Aflitos
+        - Torre de Chão do Pereiro
+        - Armental
+        - Casa do Marra
+        - Outeiro da Lagoa
+        - Fornos de Maceira Dão
+        - Gondar
+        - Fabarrelinho
+        - Cever
+        city:
+          Lisbon: Lisboa
+          Porto: Porto
+          Amadora: Lisboa
+          Braga: Braga
+          Setúbal: Setubal
+          Coimbra: Coimbra
+          Queluz: Lisboa
+          Funchal: Madeira
+          Vila Nova de Gaia: Porto
+          Loures: Lisboa
         short_name: Portugal
         iso_3166_1_alpha2: PT
         official_name: Portuguese Republic
         demonym: Portuguese
-        tld: .pt
-      QA:
+      :PW:
+        tld: .pw
+        street_name:
+        - Molegoyok
+        - Ngerdelolk
+        - Saipan Town
+        - Meker
+        - Ngaradermang
+        - a Imelogel
+        - Archongelungel
+        - Aimeong
+        - Elechui
+        - Akarokoro Kaku
+        city:
+          Koror: 
+          Meyungs: 
+          Airai: 
+          Kloulklubed: 
+          Ngermechau: 
+          Melekeok: 
+          Ngaramash: 
+          Imeong: 
+          Ulimang: 
+          Ollei: 
+        short_name: Palau
+        iso_3166_1_alpha2: PW
+        official_name: Republic of Palau
+        demonym: Palauan
+      :PY:
+        tld: .py
+        street_name:
+        - Caruperá
+        - Misión Abajo
+        - Tayi
+        - Estancia Zunilda
+        - Estancia Josefina
+        - Curupayty
+        - Puerto de Tacurupucú
+        - Estancia Pocito
+        - Puerto Loma
+        - General Eugenio A. Garay
+        city:
+          Asunción: Central
+          San Lorenzo: Central
+          Luque: Central
+          Capiatá: Central
+          Lambaré: Central
+          Fernando de la Mora: Central
+          Limpio: Central
+          Nemby: Central
+          Encarnación: Itapua
+          Mariano Roque Alonso: Central
+        short_name: Paraguay
+        iso_3166_1_alpha2: PY
+        official_name: Republic of Paraguay
+        demonym: Paraguayan
+      :QA:
+        tld: .qa
+        street_name:
+        - Bu Sidrah
+        - Al Suwaihiliya
+        - Al Ka`biyah
+        - Al `Arish
+        - Al Wabrah
+        - Al Mashrab
+        - Ad Doha
+        - Al Ghaf
+        - Al Waqra
+        - Edh Dha'ain
+        city:
+          Doha: Ad Dawhah
+          Khor: Al Khawr
+          Umm Bab: Al Jumaliyah
+          Abu Samrah: Al Jumaliyah
+          Ar Rayyan: Ad Dawhah
+          Umm es Slal: Ad Dawhah
+          Umm Slal Ali: Umm Salal
+          Al-Khaur: Al Khawr
+          Al Qa`iyah: Al Khawr
+          Khawr Hassan: Madinat ach Shamal
         short_name: Qatar
         iso_3166_1_alpha2: QA
         official_name: State of Qatar
         demonym: Qatari
-        tld: .qa
-      RO:
+      :RO:
+        postal_code: ! '######'
+        tld: .ro
+        vat_number:
+        - RO##
+        - RO###
+        - RO####
+        - RO#####
+        - RO######
+        - RO#######
+        - RO########
+        - RO#########
+        - RO##########
+        street_name:
+        - Uiheli
+        - Hanu Conache
+        - Streneac
+        - Mazahi
+        - Bucinis
+        - Hotoan
+        - Ferma Veid
+        - Streza-Cartisoara
+        - Cracul Mare
+        - Glâmbocul
+        city:
+          Bucharest: Bucuresti
+          Iasi: Iasi
+          Cluj-Napoca: Cluj
+          Timisoara: Timis
+          Craiova: Dolj
+          Constanta: Constanta
+          Galati: Galati
+          Brasov: Brasov
+          Ploiesti: Prahova
+          Braila: Braila
         short_name: Romania
         iso_3166_1_alpha2: RO
         official_name: Romania
         demonym: Romanian
-        tld: .ro
-      RU:
-        short_name: Russia
-        iso_3166_1_alpha2: RU
-        official_name: Russian Federation
-        demonym: Russian
-        tld: .ru
-      RW:
-        short_name: Rwanda
-        iso_3166_1_alpha2: RW
-        official_name: Republic of Rwanda
-        demonym: [Rwandan, Rwandese]
-        tld: .rw
-      KN:
-        short_name: Saint Kitts and Nevis
-        iso_3166_1_alpha2: KN
-        official_name: Federation of Saint Kitts and Nevis
-        demonym: [Kittitian, Kittian, Nevisian]
-        tld: .kn
-      LC:
-        short_name: Saint Lucia
-        iso_3166_1_alpha2: LC
-        demonym: Saint Lucian
-        tld: .lc
-      VC:
-        short_name: Saint Vincent and the Grenadines
-        iso_3166_1_alpha2: VC
-        official_name: Saint Vincent and the Grenadines
-        demonym: Vincentian
-        tld: .vc
-      WS:
-        short_name: Samoa
-        iso_3166_1_alpha2: WS
-        official_name: Samoa
-        demonym: Samoan
-        tld: .ws
-      SM:
-        short_name: San Marino
-        iso_3166_1_alpha2: SM
-        official_name: Republic of San Marino
-        demonym: Sammarinese
-        tld: .sm
-      ST:
-        short_name: São Tomé and Príncipe
-        iso_3166_1_alpha2: ST
-        official_name: Democratic Republic of São Tomé and Príncipe
-        demonym: Santomean
-        tld: .st
-      SA:
-        short_name: Saudi Arabia
-        iso_3166_1_alpha2: SA
-        official_name: Kingdom of Saudi Arabia
-        demonym: [Saudi, Saudi Arabian]
-        tld: .sa
-      SN:
-        short_name: Senegal
-        iso_3166_1_alpha2: SN
-        official_name: Republic of Senegal
-        demonym: Senegalese
-        tld: .sn
-      RS:
+      :RS:
+        postal_code: ! '#####'
+        tld: .rs
+        street_name:
+        - Dobrushtja
+        - Bulije
+        - Sokolovac
+        - Prisojnska Mahala
+        - Brovinë
+        - Zabeljaj
+        - Srdani
+        - Rikacevo
+        - Hokaj
+        - Medani
+        city:
+          Belgrade: 
+          Pristina: 
+          Novi Sad: 
+          Nis: 
+          Prizren: 
+          Kragujevac: 
+          Subotica: 
+          Urosevac: 
+          Pec: 
+          Gnjilane: 
         short_name: Serbia
         iso_3166_1_alpha2: RS
         official_name: Republic of Serbia
         demonym: Serbian
-        tld: .rs
-      SC:
-        short_name: Seychelles
-        iso_3166_1_alpha2: SC
-        official_name: Republic of Seychelles
+      :RU:
+        postal_code: ! '######'
+        tld: .ru
+        vat_number:
+        - RU##########
+        - RU############
+        street_name:
+        - Malyye Machi
+        - Mamonovo
+        - Nerkhnyaya Tika
+        - Koyanovo
+        - Tokmasskiy
+        - Mambetkulova
+        - Shulgina
+        - Shipova
+        - Novokare
+        - Khulya
+        city:
+          Moscow: Moscow City
+          Saint Petersburg: Saint Petersburg City
+          Novosibirsk: Novosibirsk
+          Yekaterinburg: Sverdlovsk
+          Nizhniy Novgorod: Nizhegorod
+          Samara: Samara
+          Omsk: Omsk
+          Kazan: Tatarstan
+          Rostov-na-Donu: Rostov
+          Chelyabinsk: Chelyabinsk
+        short_name: Russia
+        iso_3166_1_alpha2: RU
+        official_name: Russian Federation
+        demonym: Russian
+      :RW:
+        tld: .rw
+        street_name:
+        - Colline Gashenye
+        - Shonga
+        - Biguzi
+        - Colline Mugomba
+        - Colline Rugarama
+        - Rutamba
+        - Colline Nzangwa
+        - Colline Rudaga
+        - Nyacyonga
+        - Mont Nyamisangi
+        city:
+          Kigali: Kigali
+          Butare: Butare
+          Gitarama: Gitarama
+          Ruhengeri: 
+          Gisenyi: 
+          Byumba: 
+          Cyangugu: 
+          Nyanza: 
+          Rwamagana: Kibungo
+        short_name: Rwanda
+        iso_3166_1_alpha2: RW
+        official_name: Republic of Rwanda
         demonym:
-          - Seychellois
-          - Seychelloise
-        tld: .sc
-      SL:
-        short_name: Sierra Leone
-        iso_3166_1_alpha2: SL
-        official_name: Republic of Sierra Leone
-        demonym: Sierra Leonean
-        tld: .sl
-      SG:
-        short_name: Singapore
-        iso_3166_1_alpha2: SG
-        official_name: Republic of Singapore
-        demonym: Singaporean
-        tld: .sg
-      SK:
-        short_name: Slovakia
-        iso_3166_1_alpha2: SK
-        official_name: Slovak Republic
-        demonym: Slovak
-        tld: .sk
-      SI:
-        short_name: Slovenia
-        iso_3166_1_alpha2: SI
-        official_name: Republic of Slovenia
-        demonym: Slovene
-        tld: .si
-      SB:
+        - Rwandan
+        - Rwandese
+      :SA:
+        tld: .sa
+        street_name:
+        - Dar al Wadi
+        - Wadi `Arwaj
+        - Rakk
+        - Hijrat Laban
+        - ! '`Arish'
+        - Rughwan
+        - As Sadr
+        - Bani `Isa
+        - As Salamah
+        - Uwais
+        city:
+          Riyadh: Ar Riyad
+          Jiddah: Makkah
+          Mecca: Makkah
+          Tabuk: Al Jawf
+          Buraydah: Al Qasim
+          Abha: Jizan
+          Najran: Jizan
+          Sakakah: Al Jawf
+          Jizan: Jizan
+          Sayhat: Ash Sharqiyah
+        short_name: Saudi Arabia
+        iso_3166_1_alpha2: SA
+        official_name: Kingdom of Saudi Arabia
+        demonym:
+        - Saudi
+        - Saudi Arabian
+      :SB:
+        tld: .sb
+        street_name:
+        - Belama
+        - Tanambuli
+        - Kolutoha
+        - Zongga
+        - Manna Kwoi
+        - Houaha
+        - Fo'au
+        - Verakaria
+        - Ngaliachulu
+        - Ngalimaremare
+        city:
+          Honiara: Makira
+          Gizo: 
+          Auki: Makira
+          Buala: 
+          Tulagi: Makira
+          Kirakira: Makira
+          Lata: 
+          Hunurama: Makira
+          Kombau: Makira
+          Sepi Village: Makira
         short_name: Solomon Islands
         iso_3166_1_alpha2: SB
         official_name: Solomon Islands
         demonym: Solomon Islander
-        tld: .sb
-      SO:
-        short_name: Somalia
-        iso_3166_1_alpha2: SO
-        official_name: Republic of Somalia
-        demonym: [Somali, Somalian]
-        tld: .so
-      ZA:
-        short_name: South Africa
-        iso_3166_1_alpha2: ZA
-        official_name: Republic of South Africa
-        demonym: South African
-        tld: .za
-      ES:
-        short_name: Spain
-        iso_3166_1_alpha2: ES
-        official_name: Kingdom of Spain
-        demonym: Spanish
-        tld: .es
-      LK:
-        short_name: Sri Lanka
-        iso_3166_1_alpha2: LK
-        official_name: Democratic Socialist Republic of Sri Lanka
-        demonym: Sri Lankan
-        tld: .lk
-      SD:
+      :SC:
+        tld: .sc
+        street_name:
+        - Misere
+        - Anse Volbert Village
+        - La Réunion
+        - Port Glaud
+        - Donja Mahala
+        - La Misere
+        - De Quincy Village
+        - Anse Royale
+        - Anse Royal
+        - Belle Ombre
+        city:
+          Victoria: Beau Vallon
+          L'Espérance: Beau Vallon
+          Beau Vallon: Beau Vallon
+          Machabee: Beau Vallon
+          Anse Boileau: Beau Vallon
+          Cascade: Beau Vallon
+          Mahé: Beau Vallon
+          Port Victoria: Beau Vallon
+          Takamaka: Beau Vallon
+          De Quincey Village: Beau Vallon
+        short_name: Seychelles
+        iso_3166_1_alpha2: SC
+        official_name: Republic of Seychelles
+        demonym:
+        - Seychellois
+        - Seychelloise
+      :SD:
+        tld: .sd
+        street_name:
+        - Kelego
+        - Brankaw
+        - Nura
+        - Telgan
+        - Akwain
+        - Barsi el Fadl
+        - Faras West
+        - Sheikh `Amara
+        - Abu Shateir
+        - Jikao
+        city:
+          Umm Durman: Al Khartum
+          Khartoum: Al Khartum
+          Kassala: 
+          Kusti: Al Wusta
+          Wad Madani: 
+          Juba: Central Equatoria State
+          Malakal: Upper Nile
+          Rabak: 
+          Sinnar: Al Wusta
+          Waw: 
         short_name: Sudan
         iso_3166_1_alpha2: SD
         official_name: Republic of Sudan
         demonym: Sudanese
-        tld: .sd
-      SR:
-        short_name: Suriname
-        iso_3166_1_alpha2: SR
-        official_name: Republic of Suriname
-        demonym: Surinamese
-        tld: .sr
-      SZ:
-        short_name: Swaziland
-        iso_3166_1_alpha2: SZ
-        official_name: Kingdom of Swaziland
-        demonym: Swazi
-        tld: .sz
-      SE:
+      :SE:
+        postal_code: ! '### ##'
+        tld: .se
+        vat_number: SE##########01
+        street_name:
+        - Fuske
+        - Skrikebo
+        - Österkälen
+        - Gäddegöl
+        - Söräng
+        - Grindebo
+        - Sunnansund
+        - Hovmene
+        - Älgebo
+        - Örsås
+        city:
+          Stockholm: Stockholms Lan
+          Göteborg: Vastra Gotaland
+          Malmö: Skane Lan
+          Uppsala: Uppsala Lan
+          Västerås: Vastmanlands Lan
+          Örebro: Orebro Lan
+          Linköping: Ostergotlands Lan
+          Helsingborg: Skane Lan
+          Jönköping: Jonkopings Lan
         short_name: Sweden
         iso_3166_1_alpha2: SE
         official_name: Kingdom of Sweden
         demonym: Swedish
-        tld: .se
-      CH:
-        short_name: Switzerland
-        iso_3166_1_alpha2: CH
-        official_name: Swiss Confederation
-        demonym: Swiss
-        tld: .ch
-      SY:
+      :SG:
+        postal_code: ! '######'
+        tld: .sg
+        street_name:
+        - Kampong Telok
+        - Ong Lee
+        - Mandai Road Village
+        - Ama Keng Village
+        - Lucky Hills
+        - Brizay Park
+        - Oei Tiong Ham Park
+        - Kranji
+        - Bukit Ho Swee Estate
+        - Eden Hall
+        city:
+          Singapore: 
+          Gay World Park: 
+          Sembawang Estate: 
+          Kampong Sungai Blukar: 
+          Kampong Salabin: 
+          Perseverance Estate: 
+          Rose Garden: 
+          Hai Sing Park: 
+          Serangoon Village: 
+          Ang Mo Kio New Town: 
+        short_name: Singapore
+        iso_3166_1_alpha2: SG
+        official_name: Republic of Singapore
+        demonym: Singaporean
+      :SI:
+        postal_code: SI####
+        tld: .si
+        vat_number: SI########
+        street_name:
+        - Lokovec
+        - Szentbenedek
+        - Tabor
+        - Vrasicko
+        - Markisovci
+        - Stopnik
+        - Crnice
+        - Nemcavci
+        - Spodnja Jamnica
+        - Stari Trg
+        city:
+          Ljubljana: Bohinj
+          Maribor: Brezovica
+          Celje: Brezovica
+          Kranj: Bohinj
+          Velenje: Brezovica
+          Koper: Bohinj
+          Novo Mesto: Bohinj
+          Ptuj: Brezovica
+          Trbovlje: Brezovica
+          Nova Gorica: Bohinj
+        short_name: Slovenia
+        iso_3166_1_alpha2: SI
+        official_name: Republic of Slovenia
+        demonym: Slovene
+      :SK:
+        postal_code: ! '### ##'
+        tld: .sk
+        vat_number: SK##########
+        street_name:
+        - Odorín
+        - Paseky
+        - Hontianska Vrbica
+        - Prakovce
+        - Kardosova Vieska
+        - Valaliky
+        - Benadikovce
+        - Tornóc
+        - Jareminka
+        - Nový Dvor
+        city:
+          Bratislava: Bratislava
+          Kosice: Kosice
+          Presov: Presov
+          Nitra: Nitra
+          Zilina: Zilina
+          Banská Bystrica: Banska Bystrica
+          Trnava: Trnava
+          Martin: Zilina
+          Trencin: Trencin
+          Poprad: Presov
+        short_name: Slovakia
+        iso_3166_1_alpha2: SK
+        official_name: Slovak Republic
+        demonym: Slovak
+      :SL:
+        tld: .sl
+        street_name:
+        - Jawahun
+        - Pete
+        - Siamamaia
+        - Gbalehun
+        - Boroso
+        - Bango
+        - Gbonko
+        - Jaiama
+        - Kopama
+        - Ma-komba
+        city:
+          Freetown: Western Area
+          Koidu: Eastern
+          Bo: Southern
+          Kenema: Eastern
+          Makeni: Northern
+          Lunsar: Northern
+          Waterloo: Western Area
+          Port Loko: Northern
+          Kabala: Northern
+          Yengema: Eastern
+        short_name: Sierra Leone
+        iso_3166_1_alpha2: SL
+        official_name: Republic of Sierra Leone
+        demonym: Sierra Leonean
+      :SM:
+        postal_code: ! '#####'
+        tld: .sm
+        vat_number: SM#####
+        street_name:
+        - Falciano
+        - Città di San Marino
+        - Poggio di Chiesanuova
+        - San Marino Città
+        city:
+          Serravalle: Serravalle
+          San Marino: San Marino
+          Acquaviva: Acquaviva
+          Chiesanuova: Chiesanuova
+          San Marino Città: San Marino
+          Città di San Marino: San Marino
+          Falciano: Serravalle
+          Poggio di Chiesanuova: Chiesanuova
+        short_name: San Marino
+        iso_3166_1_alpha2: SM
+        official_name: Republic of San Marino
+        demonym: Sammarinese
+      :SN:
+        tld: .sn
+        street_name:
+        - Ganimel
+        - Ngoki
+        - Bougou
+        - Ndiago
+        - Saré Fara
+        - Fas Boué
+        - Ndiop
+        - Kamobeul
+        - Toungueur
+        - Tangout
+        city:
+          Dakar: Dakar
+          Thiès: Thies
+          Kaolack: Kaolack
+          Ziguinchor: Ziguinchor
+          Mbour: Thies
+          Saint-Louis: Saint-Louis
+          Diourbel: Diourbel
+          Louga: Louga
+          Richard Toll: 
+          Tambacounda: Tambacounda
+        short_name: Senegal
+        iso_3166_1_alpha2: SN
+        official_name: Republic of Senegal
+        demonym: Senegalese
+      :SO:
+        tld: .so
+        street_name:
+        - Guronlow Haarbargalad
+        - Waxaralis
+        - Busley
+        - Gerbaghabat
+        - Bililscia
+        - Adahio
+        - Arbi
+        - Sheikh Ali Idris
+        - Culmis Ierò
+        - Ban-Yaro
+        city:
+          Mogadishu: Banaadir
+          Hargeysa: Woqooyi Galbeed
+          Berbera: Woqooyi Galbeed
+          Kismayo: Jubbada Hoose
+          Jamame: Jubbada Hoose
+          Bosaso: Bari
+          Afgoye: Shabeellaha Hoose
+          Garowe: Nugaal
+          Jawhar: Shabeellaha Dhexe
+          Jilib: Jubbada Dhexe
+        short_name: Somalia
+        iso_3166_1_alpha2: SO
+        official_name: Republic of Somalia
+        demonym:
+        - Somali
+        - Somalian
+      :SR:
+        tld: .sr
+        street_name:
+        - Semoisi
+        - Zanderij II
+        - Zorg en Hoop
+        - Intelewa
+        - Moismois Kondre
+        - Kabelstation
+        - Republiek
+        - Bendorp
+        - Catharina Sofia
+        - Hildesheim
+        city:
+          Paramaribo: Paramaribo
+          Lelydorp: Wanica
+          Nieuw Nickerie: Nickerie
+          Moengo: Marowijne
+          Meerzorg: Commewijne
+          Nieuw Amsterdam: Commewijne
+          Mariënburg: Commewijne
+          Wageningen: Nickerie
+          Albina: Marowijne
+          Groningen: Saramacca
+        short_name: Suriname
+        iso_3166_1_alpha2: SR
+        official_name: Republic of Suriname
+        demonym: Surinamese
+      :ST:
+        tld: .st
+        street_name:
+        - N. Ceilão
+        - Ponta Forte
+        - Laura
+        - Java
+        - Belo Monte
+        - Santa Cecília
+        - Nazaré
+        - Nitreira
+        - Kimpo
+        - Ponta do Sol
+        city:
+          Guayaquil: Sao Tome
+          Santa Joaquina: Principe
+          M. Vilela: Sao Tome
+          Poiso Alto: Sao Tome
+          Máquina: Principe
+          Ribeira Palma: Sao Tome
+          Pinheira: Sao Tome
+          Vila Sara: Sao Tome
+          Uba: Principe
+          Salazar: Sao Tome
+        short_name: São Tomé and Príncipe
+        iso_3166_1_alpha2: ST
+        official_name: Democratic Republic of São Tomé and Príncipe
+        demonym: Santomean
+      :SV:
+        tld: .sv
+        street_name:
+        - Puerto Acajutla
+        - El Guayabillo
+        - Caserío Palomar
+        - Llano de Santiago
+        - Sitio Grande
+        - El Palomar
+        - Las Delicias
+        - Los Mojones
+        - El Camalote
+        - Cruz Verde
+        city:
+          San Salvador: San Salvador
+          Soyapango: San Salvador
+          Santa Ana: Santa Ana
+          Mejicanos: San Salvador
+          Nueva San Salvador: La Libertad
+          Apopa: San Salvador
+          Delgado: San Salvador
+          Sonsonate: Sonsonate
+          San Marcos: San Salvador
+          Usulután: Usulutan
+        short_name: El Salvador
+        iso_3166_1_alpha2: SV
+        official_name: Republic of El Salvador
+        demonym:
+        - Salvadorian
+        - Salvadorean
+        - Salvadoran
+        - Central American
+      :SY:
+        tld: .sy
+        street_name:
+        - Joubb el Kelb Kébîr
+        - Judayyah
+        - Shamarikh
+        - Saïyâdé
+        - Az Zakah
+        - Abou Mendil
+        - Huwayr
+        - Dalhamîyé
+        - Chaïne
+        - Khrasbu
+        city:
+          Aleppo: Halab
+          Damascus: Dimashq
+          Jaramana: Dimashq
+          Duma: Rif Dimashq
+          Idlib: Idlib
+          Tartus: Tartus
+          Manbij: Halab
+          Salamiyah: Hamah
+          Abu Kamal: Dayr az Zawr
+          Jablah: Al Ladhiqiyah
         short_name: Syria
         iso_3166_1_alpha2: SY
         official_name: Syrian Arab Republic
         demonym: Syrian
-        tld: .sy
-      TJ:
-        short_name: Tajikistan
-        iso_3166_1_alpha2: TJ
-        official_name: Republic of Tajikistan
-        demonym: Tajikistani
-        tld: .tj
-      TZ:
-        short_name: Tanzania
-        iso_3166_1_alpha2: TZ
-        official_name: United Republic of Tanzania
-        demonym: Tanzanian
-        tld: .tz
-      TH:
-        short_name: Thailand
-        iso_3166_1_alpha2: TH
-        official_name: Kingdom of Thailand
-        demonym: Thai
-        tld: .th
-      TG:
+      :SZ:
+        tld: .sz
+        street_name:
+        - Esulweni
+        - Sitobela
+        - Von Wissel
+        - Mhlosheni
+        - Nkonjane
+        - Nokwane
+        - Sinceni
+        - Grand Valley Estate
+        - Sibobela
+        - Croydon
+        city:
+          Manzini: Manzini
+          Mbabane: Hhohho
+          Big Bend: Lubombo
+          Malkerns: Hhohho
+          Nhlangano: Shiselweni
+          Mhlume: Hhohho
+          Hluti: Shiselweni
+          Siteki: Lubombo
+          Lobamba: Hhohho
+          Kwaluseni: Manzini
+        short_name: Swaziland
+        iso_3166_1_alpha2: SZ
+        official_name: Kingdom of Swaziland
+        demonym: Swazi
+      :TD:
+        tld: .td
+        street_name:
+        - Drarom
+        - Narabasé II
+        - Daporpouti
+        - Tagal
+        - Miele
+        - Béabo
+        - Tiléaé
+        - Dadouar
+        - Tirlanga
+        - Iséré
+        city:
+          Moundou: Logone Occidental
+          Sarh: Moyen-Chari
+          Abéché: Ouaddai
+          Kélo: Tandjile
+          Koumra: Moyen-Chari
+          Pala: Mayo-Kebbi
+          Am Timan: Salamat
+          Bongor: Mayo-Kebbi
+          Mongo: Guera
+          Doba: Logone Oriental
+        short_name: Chad
+        iso_3166_1_alpha2: TD
+        official_name: Republic of Chad
+        demonym: Chadian
+      :TG:
+        tld: .tg
+        street_name:
+        - Héhé
+        - Bégamé
+        - Zooti
+        - Agnaoui
+        - Momoané
+        - Ttchati
+        - Djakbou Kopé
+        - Migbodji
+        - Tekfaté
+        - Afatodji Kopé
+        city:
+          Kpalimé: 
+          Sokodé: Centrale
+          Kara: Kara
+          Atakpamé: Plateaux
+          Bassar: 
+          Tsévié: 
+          Aného: 
+          Mango: Savanes
+          Dapaong: Savanes
+          Notsé: 
         short_name: Togo
         iso_3166_1_alpha2: TG
         official_name: Togolese Republic
         demonym: Togolese
-        tld: .tg
-      TO:
-        short_name: Tonga
-        iso_3166_1_alpha2: TO
-        official_name: Kingdom of Tonga
-        demonym: Tongan
-        tld: .to
-      TT:
-        short_name: Trinidad and Tobago
-        iso_3166_1_alpha2: TT
-        official_name: Republic of Trinidad and Tobago
-        demonym: [Trinidadian, Tobagonian]
-        tld: .tt
-      TN:
-        short_name: Tunisia
-        iso_3166_1_alpha2: TN
-        official_name: Tunisian Republic
-        demonym: Tunisian
-        tld: .tn
-      TR:
-        short_name: Turkey
-        iso_3166_1_alpha2: TR
-        official_name: Republic of Turkey
-        demonym: Turkish
-        tld: .tr
-      TM:
+      :TH:
+        postal_code: ! '#####'
+        tld: .th
+        street_name:
+        - Ban Khok Si La Khon
+        - Ban Tha Preng
+        - Ban Ya Kong
+        - Ban Huai Ling
+        - Ban Don Lan
+        - Ban Huai Hia
+        - Bheakebhak
+        - Ban Wa En
+        - Ban Nong Plik
+        - Ban Mut Long
+        city:
+          Bangkok: Krung Thep
+          Samut Prakan: Samut Prakan
+          Nonthaburi: Nonthaburi
+          Udon Thani: Udon Thani
+          Chon Buri: Chon Buri
+          Nakhon Ratchasima: Nakhon Ratchasima
+          Chiang Mai: Chiang Mai
+          Hat Yai: Songkhla
+          Pak Kret: Nonthaburi
+          Si Racha: Chon Buri
+        short_name: Thailand
+        iso_3166_1_alpha2: TH
+        official_name: Kingdom of Thailand
+        demonym: Thai
+      :TJ:
+        tld: .tj
+        street_name:
+        - Egron
+        - Kara-Mazar
+        - Nimshus
+        - Dolony
+        - Shakhkamoni
+        - Shakou
+        - Potau
+        - Tuda
+        - Poymazor
+        - Burma
+        city:
+          Dushanbe: Khatlon
+          Khujand: Sughd
+          Kulob: Khatlon
+          Uroteppa: Sughd
+          Konibodom: Sughd
+          Kofarnihon: Khatlon
+          Tursunzoda: Sughd
+          Isfara: Sughd
+          Panjakent: Sughd
+          Hisor: Khatlon
+        short_name: Tajikistan
+        iso_3166_1_alpha2: TJ
+        official_name: Republic of Tajikistan
+        demonym: Tajikistani
+      :TL:
+        tld: .tl
+        short_name: East Timor
+        iso_3166_1_alpha2: TL
+        official_name: Democratic Republic of Timor-Leste
+        demonym: East Timorese
+      :TM:
+        tld: .tm
+        street_name:
+        - Kara-Bugas-Gol
+        - Toutly
+        - Kararyk
+        - Chandyr
+        - Karagan
+        - Sotsialism
+        - Charyy
+        - Beuradzhi
+        - Ak-Kum
+        - Khodzha-Kakepsi
+        city:
+          Asgabat: Ahal
+          Türkmenabat: Lebap
+          Dasoguz: Dashoguz
+          Balkanabat: Balkan
+          Büzmeýin: Ahal
+          Kerki: Lebap
+          Annau: Ahal
+          Gumdag: Balkan
+          Bäherden: Ahal
+          Boldumsaz: Dashoguz
         short_name: Turkmenistan
         iso_3166_1_alpha2: TM
         official_name: Turkmenistan
         demonym: Turkmen
-        tld: .tm
-      TV:
+      :TN:
+        postal_code: ! '####'
+        tld: .tn
+        street_name:
+        - Techine
+        - Ferryville
+        - Triffa
+        - Netta
+        - Dar et Touibia
+        - Bir-Bou-Reckba
+        - Sidi as Sahibi
+        - Sidi Jedidi
+        - El Hamada
+        - Knais
+        city:
+          Tunis: 
+          Safaqis: Sfax
+          Aryanah: 
+          Susah: Sousse
+          Qabis: Gabes
+          Qafsah: 
+          Jarjis: Madanin
+          Bardaw: 
+          Masakin: Sousse
+          Tatawin: Tataouine
+        short_name: Tunisia
+        iso_3166_1_alpha2: TN
+        official_name: Tunisian Republic
+        demonym: Tunisian
+      :TO:
+        tld: .to
+        street_name:
+        - Kala`au
+        - Nukuhetulu
+        - Bea
+        - Hihifo
+        - Kanokupolu
+        - Pangai
+        - Lavengatonga
+        - ! '`Utulau'
+        - Nopapu
+        - Mu`a
+        city:
+          Neiafu: Vava
+          Vaini: Tongatapu
+          Pangai: Ha
+          Hihifo: Vava
+          Talafo`ou: Tongatapu
+          Ha`ano: Ha
+          Holonga: Tongatapu
+          Holobeka: Ha
+          Fatuma: Tongatapu
+          Nukalofa: Tongatapu
+        short_name: Tonga
+        iso_3166_1_alpha2: TO
+        official_name: Kingdom of Tonga
+        demonym: Tongan
+      :TR:
+        postal_code: ! '#####'
+        tld: .tr
+        street_name:
+        - Hosandigen
+        - Priapus
+        - Güdekli
+        - Alakus
+        - Ogulveren
+        - Cebekeli
+        - Pirik
+        - Yakapinar
+        - Agilbasi
+        - Türkyenice
+        city:
+          Istanbul: Istanbul
+          Ankara: Ankara
+          Izmir: Izmir
+          Bursa: Bursa
+          Adana: Adana
+          Gaziantep: Gaziantep
+          Konya: Konya
+          Antalya: Antalya
+          Mersin: Mersin
+          Kayseri: Kayseri
+        short_name: Turkey
+        iso_3166_1_alpha2: TR
+        official_name: Republic of Turkey
+        demonym: Turkish
+      :TT:
+        tld: .tt
+        street_name:
+        - Sainte Croix Village
+        - Cunapo
+        - Pepper
+        - Hillsborough
+        - Port-of-Spain
+        - Valsayn
+        - Sixth Company
+        - Upper Manzanilla
+        - Vista Bella
+        - Bon Accord
+        city:
+          Chaguanas: Caroni
+          San Fernando: San Fernando
+          Arima: Arima
+          Marabella: San Fernando
+          Point Fortin: Saint Patrick
+          Tunapuna: Saint George
+          Sangre Grande: Saint Andrew
+          Tacarigua: Saint George
+          Arouca: Saint George
+          Princes Town: Victoria
+        short_name: Trinidad and Tobago
+        iso_3166_1_alpha2: TT
+        official_name: Republic of Trinidad and Tobago
+        demonym:
+        - Trinidadian
+        - Tobagonian
+      :TV:
+        tld: .tv
+        street_name:
+        - Tapotali
+        - Potufale
+        - Funafuti
+        - Fongafale
+        - Polufale
+        - Saniuta
+        - Muli
+        city:
+          Lolua: 
+          Asau: 
+          Tanrake: 
+          Tonga: 
+          Matagi: 
+          Kulia: 
+          Vaitupu: 
+          Funafuti: 
+          Fongafale: 
+          Muli: 
         short_name: Tuvalu
         iso_3166_1_alpha2: TV
         demonym: Tuvaluan
-        tld: .tv
-      UG:
-        short_name: Uganda
-        iso_3166_1_alpha2: UG
-        official_name: Republic of Uganda
-        demonym: Ugandan
-        tld: .ug
-      UA:
+      :TW:
+        postal_code: ! '#####'
+        street_name:
+        - Hsitaopang
+        - Haifengtsun
+        - Waian
+        - Sunglo
+        - Niaosung
+        - Wansheng
+        - Tingputzu
+        - Ijen
+        - Paiwanshe
+        - Yungchi
+        city:
+          Taipei: T'ai-pei
+          Kaohsiung: T'ai-wan
+          Taichung: T'ai-wan
+          Tainan: T'ai-wan
+          Panchiao: T'ai-pei
+          Hsinchu: T'ai-wan
+          Keelung: T'ai-wan
+          Chungho: T'ai-pei
+          Taoyüan: T'ai-wan
+      :TZ:
+        tld: .tz
+        street_name:
+        - Nyera
+        - Bogogo
+        - Kitutui
+        - Banemula
+        - Sampulinugombe
+        - Mtonya
+        - Kidimu
+        - Bukwaya
+        - Migombani
+        - Lombetu
+        city:
+          Dar es Salaam: Dar es Salaam
+          Mwanza: Mwanza
+          Zanzibar: Zanzibar Urban
+          Arusha: Arusha
+          Mbeya: Mbeya
+          Morogoro: Morogoro
+          Tanga: Tanga
+          Dodoma: Dodoma
+          Kigoma: Kigoma
+          Moshi: Kilimanjaro
+        short_name: Tanzania
+        iso_3166_1_alpha2: TZ
+        official_name: United Republic of Tanzania
+        demonym: Tanzanian
+      :UA:
+        postal_code: ! '#####'
+        tld: .ua
+        vat_number: UA##########
+        street_name:
+        - Berozhtse
+        - Novyy Mosyr
+        - Stëpki
+        - Angoli
+        - Zhishchintsy
+        - Kaprior
+        - Gordinya
+        - Kruki
+        - Troitskiy
+        - Kurenki
+        city:
+          Lvov: L'vivs'ka Oblast'
+          Klesov: Rivnens'ka Oblast'
+          Berëzki: Mykolayivs'ka Oblast'
+          Khimichevka: Kharkivs'ka Oblast'
+          Krasnopillya: Donets'ka Oblast'
+          Kamennyy: Khersons'ka Oblast'
+          Moskovskoye: Kharkivs'ka Oblast'
+          Timchinkhi: Kharkivs'ka Oblast'
+          Levkovka: Khmel'nyts'ka Oblast'
+          Gaivoron: Kirovohrads'ka Oblast'
         short_name: Ukraine
         iso_3166_1_alpha2: UA
         official_name: Ukraine
         demonym: Ukrainian
-        tld: .ua
-      AE:
-        short_name: United Arab Emirates
-        iso_3166_1_alpha2: AE
-        official_name: United Arab Emirates
-        demonym: Emirati
-        tld: .ae
-      GB:
-        short_name: United Kingdom
-        iso_3166_1_alpha2: GB
-        official_name: United Kingdom of Great Britain
-        demonym: British
-        tld: .uk
-      US:
+      :UG:
+        tld: .ug
+        street_name:
+        - Kabura
+        - Yole
+        - Namugongo
+        - Nyabisirira
+        - Kyabasajja
+        - Bamusuta
+        - Kalagala
+        - Patwenda
+        - Irimba
+        - Agule
+        city:
+          Kampala: Kampala
+          Gulu: Gulu
+          Lira: Lira
+          Jinja: Jinja
+          Mbarara: Mbarara
+          Mbale: Mbale
+          Mukono: Mukono
+          Kasese: Kasese
+          Masaka: Masaka
+          Entebbe: Kalangala
+        short_name: Uganda
+        iso_3166_1_alpha2: UG
+        official_name: Republic of Uganda
+        demonym: Ugandan
+      :US:
+        postal_code:
+        - ! '#####'
+        - ! '#####-####'
+        secondary_address:
+        - ! 'Apt. ##'
+        - ! 'Apt. ###'
+        - ! 'Ste. ##'
+        - ! 'Ste. ###'
+        - ! 'Unit ##'
+        - ! 'Unit ###'
+        street_address:
+        - ! '##'
+        - ! '###'
+        - ! '####'
+        street_name:
+        - Second
+        - Third
+        - First
+        - Fourth
+        - Park
+        - Fifth
+        - Main
+        - Sixth
+        - Oak
+        - Seventh
+        - Pine
+        - Maple
+        - Cedar
+        - Eighth
+        - Elm
+        - View
+        - Washington
+        - Ninth
+        - Lake
+        - Hill
+        street_suffix:
+        - St.
+        - Dr.
+        - Rd.
+        - Ave.
+        - Blvd.
+        - Cir.
+        - Ct.
+        - Ln.
+        - Pl.
+        - Ter.
+        - Cres.
+        - Sq.
+        - Hts.
+        tld: .us
+        city:
+          New York: NY
+          Los Angeles: CA
+          Chicago: IL
+          Houston: TX
+          Philadelphia: PA
+          Phoenix: AZ
+          San Diego: CA
+          San Antonio: TX
+          Dallas: TX
+          San Jose: CA
         short_name: United States
         iso_3166_1_alpha2: US
         official_name: United States of America
         demonym: American
-        tld: .us
-      UY:
+      :UY:
+        tld: .uy
+        street_name:
+        - Poblado Cuchilla de la Manguera
+        - Las Toscas
+        - Carrasco
+        - Aguada
+        - Sarandí de Navarro
+        - Palma
+        - Poblado la Villa
+        - Paso Polanco del Yi
+        - María Cejas
+        - Estanzuela
+        city:
+          Montevideo: Montevideo
+          Salto: Salto
+          Paysandú: Paysandu
+          Las Piedras: Canelones
+          Rivera: Rivera
+          Maldonado: Maldonado
+          Melo: Cerro Largo
+          Tacuarembó: Tacuarembo
+          Artigas: Artigas
+          Mercedes: Soriano
         short_name: Uruguay
         iso_3166_1_alpha2: UY
         demonym: Uruguayan
-        tld: .uy
-      UZ:
+      :UZ:
+        tld: .uz
+        street_name:
+        - Ashchitobelik
+        - Myzyrly
+        - Sarmich
+        - Oqdaghana
+        - Shaugan
+        - Audzhin
+        - Kochkar-Bulak
+        - Bozarchi
+        - Akdar'ya
+        - Ken-Tala
+        city:
+          Tashkent: Toshkent
+          Namangan: Namangan
+          Samarkand: Samarqand
+          Andijon: Andijon
+          Nukus: Qoraqalpoghiston
+          Termiz: Surkhondaryo
+          Navoi: Nawoiy
+          Angren: Toshkent
+          Bekobod: Toshkent
+          Denau: Surkhondaryo
         short_name: Uzbekistan
         iso_3166_1_alpha2: UZ
         official_name: Republic of Uzbekistan
-        demonym: [Uzbekistani, Uzbek]
-        tld: .uz
-      VU:
-        short_name: Vanuatu
-        iso_3166_1_alpha2: VU
-        official_name: Republic of Vanuatu
-        demonym: Ni-Vanuatu; Vanuatuan
-        tld: .vu
-      VA:
+        demonym:
+        - Uzbekistani
+        - Uzbek
+      :VA:
+        postal_code: ! '#####'
         short_name: Vatican City
         iso_3166_1_alpha2: VA
         official_name: Vatican City State
         tld: .va
-      VE:
+      :VC:
+        tld: .vc
+        street_name:
+        - Questelles
+        - Adelphi
+        - Kingstown Park
+        - Redemption
+        - Dubois
+        - Rutland Vale Village
+        - Vermont
+        - Sans Souci
+        - Princes Town
+        - Orange Hill
+        city:
+          Kingstown: Saint George
+          Barroualie: Saint Patrick
+          Georgetown: Charlotte
+          Layou: Saint Patrick
+          Biabou: Charlotte
+          Port Elizabeth: Grenadines
+          Chateaubelair: Saint David
+          Dovers: Grenadines
+          Camden Park: Saint Andrew
+          South Rivers: Charlotte
+        short_name: Saint Vincent and the Grenadines
+        iso_3166_1_alpha2: VC
+        official_name: Saint Vincent and the Grenadines
+        demonym: Vincentian
+      :VE:
+        tld: .ve
+        street_name:
+        - Morichalote
+        - Corubo
+        - La Marianera
+        - Cerro Colorado
+        - Manicuare
+        - La Onia
+        - Capaya
+        - Tulanal
+        - Las Paradas
+        - La Pericoca
+        city:
+          Maracaibo: Zulia
+          Caracas: Distrito Federal
+          Valencia: Carabobo
+          Barquisimeto: Lara
+          Ciudad Guayana: Bolivar
+          Barcelona: Anzoategui
+          Maturín: Monagas
+          Maracay: Aragua
+          Petare: Miranda
+          Turmero: Aragua
         short_name: Venezuela
         iso_3166_1_alpha2: VE
         official_name: Bolivarian Republic of Venezuela
         demonym: Venezuelan
-        tld: .ve
-      VN:
+      :VN:
+        postal_code: ! '######'
+        tld: .vn
+        street_name:
+        - Lang Chan
+        - Phu Pang
+        - Xóm Bãi Ðiêp
+        - Muong Lat
+        - Phu Thuan
+        - Buon Krak
+        - Thôn Chiêm
+        - Duc Hau
+        - My Let
+        - Xa Uyen-Hung
+        city:
+          Ho Chi Minh City: Ho Chi Minh
+          Ha Noi: Dac Lac
+          Hanoi: Dac Lac
+          Hai Phong: Hai Phong
+          Biên Hòa: An Giang
+          Hue: Nghe An
+          Nha Trang: Binh Dinh
+          Can Tho: 
+          Rach Gia: Kien Giang
+          Qui Nhon: Dong Thap
         short_name: Vietnam
         iso_3166_1_alpha2: VN
         official_name: Socialist Republic of Vietnam
         demonym: Vietnamese
-        tld: .vn
-      YE:
+      :VU:
+        tld: .vu
+        street_name:
+        - Morioul
+        - Imwaya
+        - Wanbagam
+        - Meltébin
+        - Malouibakaranaé
+        - Lalembou
+        - Laanbek
+        - Tatouira
+        - Maronron
+        - Mélip
+        city:
+          Vila: Efate
+          Luganville: Sanma
+          Norsup: Malakula
+          Isangel: Tafea
+          Sola: Torba
+          Lakatoro: Malakula
+          Poliba: Ambrym
+          Taoutou: Malakula
+          Toak: Ambrym
+          Matala: Sanma
+        short_name: Vanuatu
+        iso_3166_1_alpha2: VU
+        official_name: Republic of Vanuatu
+        demonym: Ni-Vanuatu; Vanuatuan
+      :WS:
+        tld: .ws
+        street_name:
+        - Savai`i
+        - Asaua
+        - Vaiauau
+        - Papaloloa
+        - Salesulumua
+        - Malaemalu
+        - Vaimoa
+        - Motootua
+        - Sagapolu
+        - Vaijee`itai
+        city:
+          Apia: 
+          Vaitele: 
+          Faleula: 
+          Siusega: 
+          Malie: 
+          Fasitoouta: 
+          Vaiusu: 
+          Afega: 
+          Nofoalii: 
+          Solosolo: 
+        short_name: Samoa
+        iso_3166_1_alpha2: WS
+        official_name: Samoa
+        demonym: Samoan
+      :YE:
+        tld: .ye
+        street_name:
+        - Al Hamra'
+        - Ghufayrah
+        - ! '`Izan'
+        - Barh al Harzah
+        - Bureika
+        - Baramish
+        - Mahall `Ali Zayn
+        - Saihut
+        - Raydat `Ibnut
+        - Dayr Oule
+        city:
+          Aden: Adan
+          Ibb: 
+          Sayyan: San
+          Zabid: Al Hudaydah
+          Bajil: Al Hudaydah
+          Yarim: 
+          Lahij: Al Ghaydah
+          Jiblah: 
+          Maoetti: Al Hudaydah
+          Ash Shattayn: Al Ghaydah
         short_name: Yemen
         iso_3166_1_alpha2: YE
         official_name: Republic of Yemen
         demonym: Yemeni
-        tld: .ye
-      ZM:
+      :ZA:
+        postal_code: ! '####'
+        tld: .za
+        street_name:
+        - Magidini
+        - eMkhohlwa
+        - Mqekezweni
+        - Ga-Rasai
+        - Sepanapudi
+        - Uitsig
+        - Aprilskraal
+        - Matlala
+        - Claudina
+        - Waltloo
+        city:
+          Cape Town: Western Cape
+          Durban: KwaZulu-Natal
+          Johannesburg: Gauteng
+          Soweto: Gauteng
+          Pretoria: Gauteng
+          Port Elizabeth: Eastern Cape
+          Pietermaritzburg: KwaZulu-Natal
+          Benoni: Gauteng
+          Tembisa: Gauteng
+          Vereeniging: Gauteng
+        short_name: South Africa
+        iso_3166_1_alpha2: ZA
+        official_name: Republic of South Africa
+        demonym: South African
+      :ZM:
+        tld: .zm
+        street_name:
+        - Suluwe
+        - Mugalolo
+        - Lembo
+        - Nalwendo
+        - Mwiasangunga
+        - Moba
+        - Nukombo
+        - Chimata
+        - Kachamisa
+        - Kampulu
+        city:
+          Lusaka: Lusaka
+          Kitwe: Central
+          Ndola: Central
+          Kabwe: Northern
+          Chingola: Central
+          Mufulira: Central
+          Luanshya: Central
+          Livingstone: Luapula
+          Kasama: Southern
+          Chipata: North-Western
         short_name: Zambia
         iso_3166_1_alpha2: ZM
         official_name: Republic of Zambia
         demonym: Zambian
-        tld: .zm
-      ZW:
+      :ZW:
+        tld: .zw
+        street_name:
+        - Mpinjwani
+        - Gaths Mine
+        - Iminyela
+        - Kanukamwe School
+        - Kazangarare
+        - Ashbrittle
+        - Nkayi
+        - Maimi
+        - Emangweni
+        - Gletwyn A
+        city:
+          Harare: Mashonaland East
+          Bulawayo: Matabeleland North
+          Chitungwiza: Mashonaland East
+          Mutare: Mashonaland East
+          Gweru: Matabeleland North
+          Kwekwe: Mashonaland East
+          Kadoma: Mashonaland East
+          Masvingo: Matabeleland South
+          Marondera: Mashonaland East
+          Zvishavane: Matabeleland South
         short_name: Zimbabwe
         iso_3166_1_alpha2: ZW
         official_name: Republic of Zimbabwe
         demonym: Zimbabwean
-        tld: .zw
 
     partially_recognized_country:
     - short_name: Abkhazia
